@@ -1,0 +1,588 @@
+name,link,manufacturer,origin,body_type,seating_capacity,engine,torque,transmission,max_power,drive,fuel_type,fuel_capacity
+Kia Morning MT,https://xebiz.vn/gia-xe/kia-morning-mt/,Kia,Lap rap,Hatchback,5 cho,1248 cc,,So san,64.1 kW @ 6000 rpm,FWD,Xang,35 Lit
+Suzuki Celerio MT,https://xebiz.vn/gia-xe/suzuki-celerio-mt/,Suzuki,Nhap khau,Hatchback,5 cho,998 cc,,So san,50.6 kW @ 6000 rpm,2WD,Xang,35 Lit
+Kia Morning AT,https://xebiz.vn/gia-xe/kia-morning-at/,Kia,Lap rap,Hatchback,5 cho,1248 cc,,Tu dong,64.1 kW @ 6000 rpm,FWD,Xang,35 Lit
+Toyota Wigo 1.2 G MT,https://xebiz.vn/gia-xe/toyota-wigo-1-2-g-mt/,Toyota,Nhap khau,Hatchback,5 cho,1197 cc,,So san,64 kW @ 86600 rpm,FWD,Xang,33 Lit
+Suzuki Celerio CVT,https://xebiz.vn/gia-xe/suzuki-celerio-cvt/,Suzuki,Nhap khau,Hatchback,5 cho,998 cc,,Vo cap CVT,50.6 kW @ 6000 rpm,2WD,Xang,35 Lit
+Hyundai Grand i10 Hatchback 1.0 MT Base,https://xebiz.vn/gia-xe/hyundai-grand-i10-hatchback-1-0-mt-base/,Hyundai,Lap rap,Hatchback,4 cho,998 cc,,So san,48.5 kW @ 5500 rpm,FWD,Xang,43 Lit
+Kia Morning AT Deluxe,https://xebiz.vn/gia-xe/kia-morning-at-deluxe/,Kia,Lap rap,Hatchback,5 cho,1248 cc,,Tu dong,64.1 kW @ 6000 rpm,FWD,Xang,35 Lit
+Chevrolet Spark LS,https://xebiz.vn/gia-xe/chevrolet-spark-ls/,Chevrolet,Nhap khau,Hatchback,5 cho,1206 cc,,So san,50 kW @ 6400 rpm,FWD,Xang,35 Lit
+Hyundai Grand i10 Hatchback 1.0 MT,https://xebiz.vn/gia-xe/hyundai-grand-i10-hatchback-1-0-mt/,Hyundai,Lap rap,Hatchback,4 cho,998 cc,,So san,48.5 kW @ 5500 rpm,FWD,Xang,43 Lit
+Mitsubishi Attrage 1.2 MT,https://xebiz.vn/gia-xe/mitsubishi-attrage-1-2-mt/,Mitsubishi,Nhap khau,Sedan,5 cho,1193 cc,,So san,58 kW @ 6000 rpm,FWD,Xang,42 Lit
+Hyundai Grand i10 Sedan 1.2 MT Base,https://xebiz.vn/gia-xe/hyundai-grand-i10-sedan-1-2-mt-base/,Hyundai,Lap rap,Sedan,5 cho,1248 cc,,So san,64 kW @ 6000 rpm,FWD,Xang,43 Lit
+Hyundai Grand i10 Hatchback 1.2 MT Base,https://xebiz.vn/gia-xe/hyundai-grand-i10-hatchback-1-2-mt-base/,Hyundai,Lap rap,Hatchback,4 cho,1248 cc,,So san,64 kW @ 6000 rpm,FWD,Xang,43 Lit
+Hyundai Grand i10 Hatchback 1.0 AT,https://xebiz.vn/gia-xe/hyundai-grand-i10-hatchback-1-0-at/,Hyundai,Lap rap,Hatchback,4 cho,998 cc,,Tu dong,48.5 kW @ 5500 rpm,FWD,Xang,43 Lit
+Chevrolet Spark LT,https://xebiz.vn/gia-xe/chevrolet-spark-lt/,Chevrolet,Nhap khau,Hatchback,5 cho,1206 cc,,So san,72.3 kW @ 6400 rpm,FWD,Xang,32 Lit
+Hyundai Grand i10 Hatchback 1.2 MT,https://xebiz.vn/gia-xe/hyundai-grand-i10-hatchback-1-2-mt/,Hyundai,Lap rap,Hatchback,4 cho,1248 cc,,So san,64 kW @ 6000 rpm,FWD,Xang,43 Lit
+Kia Morning AT Luxury,https://xebiz.vn/gia-xe/kia-morning-at-luxury/,Kia,Lap rap,Hatchback,5 cho,1248 cc,,Tu dong,64.1 kW @ 6000 rpm,FWD,Xang,35 Lit
+Mitsubishi Mirage MT,https://xebiz.vn/gia-xe/mitsubishi-mirage-mt/,Mitsubishi,Nhap khau,Hatchback,5 cho,1193 cc,,So san,57.4 kW @ 6000 rpm,FWD,Xang,35 Lit
+Kia Soluto MT,https://xebiz.vn/gia-xe/kia-soluto-mt/,Kia,Lap rap,Sedan,5 cho,1399 cc,,So san,70.1 kW @ 6000 rpm,FWD,Xang,43 Lit
+Kia Soluto 1.4MT 2021,https://xebiz.vn/gia-xe/kia-soluto-1-4mt-2021/,Kia,Nhap khau,Sedan,5 cho,1368 cc,,So san,70.1 kW @ 6000 rpm,FWD,Xang,43 Lit
+Toyota Wigo 1.2 G AT,https://xebiz.vn/gia-xe/toyota-wigo-1-2-g-at/,Toyota,Nhap khau,Hatchback,5 cho,1197 cc,,Tu dong,64 kW @ 86600 rpm,FWD,Xang,33 Lit
+Hyundai Grand i10 Hatchback 1.2 AT,https://xebiz.vn/gia-xe/hyundai-grand-i10-hatchback-1-2-at/,Hyundai,Lap rap,Hatchback,4 cho,1248 cc,,Tu dong,64 kW @ 6000 rpm,FWD,Xang,43 Lit
+Vinfast Fadil 1.4 Tieu chuan CVT,https://xebiz.vn/gia-xe/vinfast-fadil-1-4-tieu-chuan-cvt/,VinFast,Lap rap,Hatchback,5 cho,1395 cc,,Vo cap CVT,73 kW @ 6200 rpm,FWD,Xang,0 Lit
+Honda Brio 1.2 G,https://xebiz.vn/gia-xe/honda-brio-1-2-g/,Honda,Nhap khau,Hatchback,5 cho,1199 cc,,Vo cap CVT,90 kW @ 6000 rpm,FWD,Xang,35 Lit
+Hyundai Grand i10 Sedan 1.2 MT,https://xebiz.vn/gia-xe/hyundai-grand-i10-sedan-1-2-mt/,Hyundai,Lap rap,Sedan,5 cho,1248 cc,,So san,64 kW @ 6000 rpm,FWD,Xang,43 Lit
+Hyundai Accent 1.4MT Tieu chuan,https://xebiz.vn/gia-xe/hyundai-accent-1-4mt-tieu-chuan/,Hyundai,Lap rap,Sedan,5 cho,1368 cc,,So san,73.5 kW @ 6000 rpm,FWD,Xang,45 Lit
+Kia Soluto 1.4MT Deluxe 2021,https://xebiz.vn/gia-xe/kia-soluto-1-4mt-deluxe-2021/,Kia,Nhap khau,Sedan,5 cho,1368 cc,,So san,70.1 kW @ 6000 rpm,FWD,Xang,43 Lit
+Kia Soluto MT Deluxe,https://xebiz.vn/gia-xe/kia-soluto-mt-deluxe/,Kia,Lap rap,Sedan,5 cho,1399 cc,,So san,70.1 kW @ 6000 rpm,FWD,Xang,43 Lit
+Mitsubishi Mirage CVT Eco,https://xebiz.vn/gia-xe/mitsubishi-mirage-cvt-eco/,Mitsubishi,Nhap khau,Hatchback,5 cho,1193 cc,,Vo cap CVT,57.4 kW @ 6000 rpm,FWD,Xang,35 Lit
+Hyundai Grand i10 Sedan 1.2 AT,https://xebiz.vn/gia-xe/hyundai-grand-i10-sedan-1-2-at/,Hyundai,Lap rap,Sedan,5 cho,1248 cc,,Tu dong,64 kW @ 6000 rpm,FWD,Xang,43 Lit
+Nissan Sunny XL,https://xebiz.vn/gia-xe/nissan-sunny-xl/,Nissan,Lap rap,Sedan,5 cho,1498 cc,,So san,91 kW @ 6300 rpm,FWD,Xang,40 Lit
+Vinfast Fadil 1.4 Nang cao CVT,https://xebiz.vn/gia-xe/vinfast-fadil-1-4-nang-cao-cvt/,VinFast,Lap rap,Hatchback,5 cho,1395 cc,,Vo cap CVT,73.1 kW @ 6200 rpm,FWD,Xang,32 Lit
+Kia Soluto 1.4AT Deluxe 2021,https://xebiz.vn/gia-xe/kia-soluto-1-4at-deluxe-2021/,Kia,Nhap khau,Sedan,5 cho,1368 cc,,Tu dong,70.1 kW @ 6000 rpm,FWD,Xang,43 Lit
+Chevrolet Aveo LT,https://xebiz.vn/gia-xe/chevrolet-aveo-lt/,Chevrolet,Nhap khau,Sedan,5 cho,1498 cc,,So san,81 kW @ 6400 rpm,FWD,Xang,45 Lit
+Kia Soluto AT Deluxe,https://xebiz.vn/gia-xe/kia-soluto-at-deluxe/,Kia,Lap rap,Sedan,5 cho,1399 cc,,Tu dong,70.1 kW @ 6000 rpm,FWD,Xang,43 Lit
+Mitsubishi Attrage 1.2 CVT,https://xebiz.vn/gia-xe/mitsubishi-attrage-1-2-cvt/,Mitsubishi,Nhap khau,Sedan,5 cho,1193 cc,,Vo cap CVT,58 kW @ 6000 rpm,FWD,Xang,42 Lit
+Nissan Sunny XT,https://xebiz.vn/gia-xe/nissan-sunny-xt/,Nissan,Nhap khau,Sedan,5 cho,1498 cc,,Tu dong,91 kW @ 6300 rpm,FWD,Xang,40 Lit
+Hyundai Accent 1.4 MT,https://xebiz.vn/gia-xe/hyundai-accent-1-4-mt/,Hyundai,Lap rap,Sedan,5 cho,1368 cc,,So san,73.5 kW @ 6000 rpm,FWD,Xang,45 Lit
+Toyota Vios 1.5 E MT,https://xebiz.vn/gia-xe/toyota-vios-1-5-e-mt/,Toyota,Lap rap,Sedan,5 cho,1496 cc,,So san,79107 kW @ 6000 rpm,FWD,Xang,42 Lit
+Kia Rio 1.4 MT,https://xebiz.vn/gia-xe/kia-rio-1-4-mt/,Kia,Nhap khau,Sedan,5 cho,1397 cc,,So san,89 kW @ 6300 rpm,FWD,Xang,45 Lit
+Toyota Vios E (3 tui khi),https://xebiz.vn/gia-xe/toyota-vios-e-3-tui-khi/,Toyota,Lap rap,Sedan,5 cho,1496 cc,,So san,79107 kW @ 6000 rpm,FWD,Xang,42 Lit
+Mitsubishi Mirage CVT,https://xebiz.vn/gia-xe/mitsubishi-mirage-cvt/,Mitsubishi,Nhap khau,Hatchback,5 cho,1193 cc,,Vo cap CVT,57.4 kW @ 6000 rpm,FWD,Xang,35 Lit
+Vinfast Fadil 1.4 Cao cap CVT,https://xebiz.vn/gia-xe/vinfast-fadil-1-4-cao-cap-cvt/,VinFast,Nhap khau,Hatchback,5 cho,1495 cc,,Vo cap CVT,73.1 kW @ 6200 rpm,FWD,Xang,32 Lit
+Suzuki Ciaz 1.4 AT,https://xebiz.vn/gia-xe/suzuki-ciaz-1-4-at/,Suzuki,Nhap khau,Sedan,5 cho,1373 cc,,Tu dong,,FWD,Xang,42 Lit
+Nissan Sunny XT-Q,https://xebiz.vn/gia-xe/nissan-sunny-xt-q/,Nissan,Lap rap,Sedan,5 cho,1498 cc,,Tu dong,73.1 kW @ 6000 rpm,2WD,Xang,41 Lit
+Honda Brio 1.2 RS,https://xebiz.vn/gia-xe/honda-brio-1-2-rs/,Honda,Nhap khau,Hatchback,5 cho,1199 cc,,Vo cap CVT,66 kW @ 6000 rpm,FWD,Xang,35 Lit
+Chevrolet Aveo LTZ,https://xebiz.vn/gia-xe/chevrolet-aveo-ltz/,Chevrolet,Nhap khau,Sedan,5 cho,1498 cc,,Tu dong,81 kW @ 6400 rpm,FWD,Xang,45 Lit
+Nissan Sunny XV,https://xebiz.vn/gia-xe/nissan-sunny-xv/,Nissan,Nhap khau,Sedan,5 cho,1498 cc,,Tu dong,73.1 kW @ 6000 rpm,2WD,Xang,41 Lit
+Suzuki Swift 1.2 GL CVT,https://xebiz.vn/gia-xe/suzuki-swift-1-2-gl-cvt/,Suzuki,Nhap khau,Hatchback,5 cho,1197 cc,,Vo cap CVT,61.1 kW @ 6000 rpm,2WD,Xang,37 Lit
+Hyundai Accent 1.4AT,https://xebiz.vn/gia-xe/hyundai-accent-1-4at/,Hyundai,Lap rap,Sedan,5 cho,1368 cc,,Tu dong,73.5 kW @ 6000 rpm,FWD,Xang,45 Lit
+Kia Soluto AT Luxury,https://xebiz.vn/gia-xe/kia-soluto-at-luxury/,Kia,Lap rap,Sedan,5 cho,1399 cc,,Tu dong,70.1 kW @ 6000 rpm,FWD,Xang,43 Lit
+Suzuki Ertiga 1.5L GL MT,https://xebiz.vn/gia-xe/suzuki-ertiga-1-5l-gl-mt/,Suzuki,Nhap khau,Minivan,7 cho,1462 cc,,So san,76.8 kW @ 6000 rpm,2WD,Xang,45 Lit
+Kia Soluto 1.4AT Luxury 2021,https://xebiz.vn/gia-xe/kia-soluto-1-4at-luxury-2021/,Kia,Nhap khau,Sedan,5 cho,1368 cc,,Tu dong,70.1 kW @ 6000 rpm,FWD,Xang,43 Lit
+Honda Mobilio 1.5 S MT,https://xebiz.vn/gia-xe/honda-mobilio-1-5-s-mt/,Honda,Nhap khau,Minivan,5 cho,1497 cc,,So san,,FWD,Xang,48 Lit
+Mazda 2 1.5,https://xebiz.vn/gia-xe/mazda-2-1-5-2/,Mazda,Nhap khau,Sedan,5 cho,1496 cc,,Tu dong,82 kW @ 6000 rpm,FWD,Xang,44 Lit
+Mazda 2 1.5,https://xebiz.vn/gia-xe/mazda-2-1-5/,Mazda,Nhap khau,Sedan,5 cho,1496 cc,,Tu dong,82 kW @ 6000 rpm,FWD,Xang,44 Lit
+Kia Rio 1.4 AT,https://xebiz.vn/gia-xe/kia-rio-1-4-at/,Kia,Nhap khau,Sedan,5 cho,1397 cc,,Tu dong,89 kW @ 6300 rpm,FWD,Xang,45 Lit
+Nissan Sunny XV-Q,https://xebiz.vn/gia-xe/nissan-sunny-xv-q/,Nissan,Lap rap,Sedan,5 cho,1498 cc,,Tu dong,73.1 kW @ 6000 rpm,2WD,Xang,41 Lit
+Toyota Vios E CVT (3 tui khi),https://xebiz.vn/gia-xe/toyota-vios-e-cvt-3-tui-khi/,Toyota,Lap rap,Sedan,5 cho,1496 cc,,Vo cap CVT,79 kW @ 6000 rpm,FWD,Xang,42 Lit
+Toyota Vios 1.5 E CVT,https://xebiz.vn/gia-xe/toyota-vios-1-5-e-cvt/,Toyota,Lap rap,Sedan,5 cho,1496 cc,,Vo cap CVT,79107 kW @ 6000 rpm,FWD,Xang,42 Lit
+Toyota Vios 1.5 E CVT 2021,https://xebiz.vn/gia-xe/toyota-vios-1-5-e-cvt-2021/,Toyota,Lap rap,Sedan,5 cho,1496 cc,,Vo cap CVT,79 kW @ 6000 rpm,FWD,Xang,42 Lit
+Hyundai Accent 1.4AT Dac biet,https://xebiz.vn/gia-xe/hyundai-accent-1-4at-dac-biet/,Hyundai,Lap rap,Sedan,5 cho,1368 cc,,Tu dong,73.5 kW @ 6000 rpm,FWD,Xang,45 Lit
+Honda Jazz 1.5 V CVT,https://xebiz.vn/gia-xe/honda-jazz-1-5-v-cvt/,Honda,Nhap khau,Hatchback,5 cho,1497 cc,,Vo cap CVT,88 kW @ 6600 rpm,FWD,Xang,40 Lit
+Toyota Avanza 1.3 MT,https://xebiz.vn/gia-xe/toyota-avanza-1-3-mt/,Toyota,Nhap khau,Minivan,7 cho,1329 cc,,So san,70 kW @ 94600 rpm,RWD,Xang,45 Lit
+Ford EcoSport 1.5L MT Ambiente,https://xebiz.vn/gia-xe/ford-ecosport-1-5l-mt-ambiente/,Ford,Lap rap,SUV,5 cho,1495 cc,,So san,,FWD,Xang,52 Lit
+Ford EcoSport Ambiente 1.5MT 2019,https://xebiz.vn/gia-xe/ford-ecosport-ambiente-1-5mt-2019/,Ford,Lap rap,SUV,5 cho,1500 cc,,So san,,,Xang,52 Lit
+Mazda 2 1.5 Deluxe Sedan,https://xebiz.vn/gia-xe/mazda-2-1-5-deluxe-sedan/,Mazda,Nhap khau,Sedan,5 cho,1496 cc,,Tu dong,82 kW @ 6000 rpm,FWD,Xang,44 Lit
+Suzuki Swift 1.2 GLX CVT,https://xebiz.vn/gia-xe/suzuki-swift-1-2-glx-cvt/,Suzuki,Nhap khau,Hatchback,5 cho,1197 cc,,Vo cap CVT,61.1 kW @ 6000 rpm,2WD,Xang,37 Lit
+Mazda 2 Hatchback 1.5 Deluxe Hatchback,https://xebiz.vn/gia-xe/mazda-2-hatchback-1-5-deluxe-hatchback/,Mazda,Nhap khau,Hatchback,5 cho,1496 cc,,Tu dong,82 kW @ 6000 rpm,FWD,Xang,44 Lit
+Mitsubishi Xpander MT,https://xebiz.vn/gia-xe/mitsubishi-xpander-mt/,Mitsubishi,Nhap khau,Crossover,7 cho,1499 cc,,So san,,2WD,Xang,45 Lit
+Suzuki Ertiga 1.5L GLX AT,https://xebiz.vn/gia-xe/suzuki-ertiga-1-5l-glx-at/,Suzuki,Nhap khau,Minivan,7 cho,1462 cc,,Tu dong,76.8 kW @ 6000 rpm,2WD,Xang,45 Lit
+Suzuki Ertiga 1.5L Sport AT,https://xebiz.vn/gia-xe/suzuki-ertiga-1-5l-sport-at/,Suzuki,Nhap khau,Minivan,7 cho,1462 cc,,Tu dong,77.6 kW @ 6000 rpm,2WD,Xang,45 Lit
+Honda City 1.5 G,https://xebiz.vn/gia-xe/honda-city-1-5-g/,Honda,Lap rap,Sedan,5 cho,1497 cc,,Vo cap CVT,88 kW @ 6600 rpm,FWD,Xang,40 Lit
+Kia Cerato 1.6 MT,https://xebiz.vn/gia-xe/kia-cerato-1-6-mt/,Kia,Lap rap,Sedan,5 cho,1591 cc,,So san,116 kW @ 6500 rpm,FWD,Xang,50 Lit
+Hyundai Elantra 1.6 MT,https://xebiz.vn/gia-xe/hyundai-elantra-1-6-mt/,Hyundai,Lap rap,Sedan,5 cho,1591 cc,,So san,94.1 kW @ 6300 rpm,FWD,Xang,50 Lit
+Ford EcoSport Ambiente 1.5AT 2019,https://xebiz.vn/gia-xe/ford-ecosport-ambiente-1-5at-2019/,Ford,Lap rap,SUV,5 cho,1500 cc,,Tu dong,,,Xang,52 Lit
+Ford EcoSport 1.5L AT Ambiente,https://xebiz.vn/gia-xe/ford-ecosport-1-5l-at-ambiente/,Ford,Lap rap,SUV,5 cho,1495 cc,,Tu dong,,FWD,Xang,52 Lit
+Toyota Vios 1.5 G CVT,https://xebiz.vn/gia-xe/toyota-vios-1-5-g-cvt/,Toyota,Lap rap,Sedan,5 cho,1496 cc,,Vo cap CVT,79107 kW @ 6000 rpm,FWD,Xang,42 Lit
+Honda Mobilio 1.5 V CVT,https://xebiz.vn/gia-xe/honda-mobilio-1-5-v-cvt/,Honda,Nhap khau,Minivan,7 cho,1497 cc,,Vo cap CVT,,FWD,Xang,48 Lit
+Kia Rondo 2.0 Standard MT,https://xebiz.vn/gia-xe/kia-rondo-2-0-standard-mt/,Kia,Lap rap,Crossover,7 cho,1999 cc,,So san,117 kW @ 6500 rpm,FWD,Xang,58 Lit
+Nissan Navara 2.5 MT 2WD E,https://xebiz.vn/gia-xe/nissan-navara-2-5-mt-2wd-e/,Nissan,Nhap khau,Xe ban tai,5 cho,2488 cc,,So san,120.1 kW @ 3600 rpm,2WD,Dau,80 Lit
+Chevrolet Cruze LT,https://xebiz.vn/gia-xe/chevrolet-cruze-lt/,Chevrolet,Nhap khau,Sedan,5 cho,1399 cc,,So san,114 kW @ 5600 rpm,FWD,Xang,51 Lit
+Kia Seltos 1.4 Deluxe,https://xebiz.vn/gia-xe/kia-seltos-1-4-deluxe/,Kia,Lap rap,SUV,5 cho,1353 cc,,Vo cap CVT,,2WD,Xang,50 Lit
+Kia Cerato 1.6 AT,https://xebiz.vn/gia-xe/kia-cerato-1-6-at/,Kia,Lap rap,Sedan,5 cho,1591 cc,,Tu dong,95 kW @ 6500 rpm,FWD,Xang,50 Lit
+Suzuki XL7 GLX,https://xebiz.vn/gia-xe/suzuki-xl7-glx/,Suzuki,Nhap khau,Crossover,7 cho,1462 cc,,Tu dong,76.8 kW @ 6000 rpm,FWD,Xang,45 Lit
+Kia Rio Hatchback 1.6 CVT,https://xebiz.vn/gia-xe/kia-rio-hatchback-1-6-cvt/,Kia,Nhap khau,Hatchback,5 cho,1598 cc,,Vo cap CVT,89 kW @ 6300 rpm,FWD,Xang,45 Lit
+Toyota Avanza 1.5 AT,https://xebiz.vn/gia-xe/toyota-avanza-1-5-at/,Toyota,Nhap khau,Minivan,7 cho,1496 cc,,Tu dong,,RWD,Xang,45 Lit
+Ford EcoSport Trend 1.5AT 2019,https://xebiz.vn/gia-xe/ford-ecosport-trend-1-5at-2019/,Ford,Lap rap,SUV,5 cho,1500 cc,,Tu dong,,,Xang,52 Lit
+Ford EcoSport 1.5L AT Trend,https://xebiz.vn/gia-xe/ford-ecosport-1-5l-at-trend/,Ford,Lap rap,SUV,5 cho,1500 cc,,Tu dong,,FWD,Xang,52 Lit
+Honda Jazz 1.5 VX CVT,https://xebiz.vn/gia-xe/honda-jazz-1-5-vx-cvt/,Honda,Nhap khau,Hatchback,5 cho,1497 cc,,Vo cap CVT,88 kW @ 6600 rpm,FWD,Xang,40 Lit
+Mazda 2 1.5 Luxury Sedan,https://xebiz.vn/gia-xe/mazda-2-1-5-luxury-sedan/,Mazda,Nhap khau,Sedan,5 cho,1496 cc,,Tu dong,82 kW @ 6000 rpm,FWD,Xang,44 Lit
+Honda City 1.5 L,https://xebiz.vn/gia-xe/honda-city-1-5-l/,Honda,Lap rap,Sedan,5 cho,1497 cc,,Vo cap CVT,88 kW @ 6600 rpm,FWD,Xang,40 Lit
+Renault Logan 1.6 AT,https://xebiz.vn/gia-xe/renault-logan-1-6-at/,Renault,Nhap khau,Sedan,5 cho,1599 cc,,Tu dong,,FWD,Xang,50 Lit
+Suzuki XL7 Zeta,https://xebiz.vn/gia-xe/suzuki-xl7-zeta/,Suzuki,Nhap khau,Crossover,7 cho,1462 cc,,Tu dong,76.8 kW @ 6000 rpm,FWD,Xang,45 Lit
+Mazda 2 Hatchback 1.5 Luxury Hatchback,https://xebiz.vn/gia-xe/mazda-2-hatchback-1-5-luxury-hatchback/,Mazda,Nhap khau,Hatchback,5 cho,1496 cc,,Tu dong,82 kW @ 6000 rpm,FWD,Xang,44 Lit
+Kia Rondo 2.0 Deluxe MT,https://xebiz.vn/gia-xe/kia-rondo-2-0-deluxe-mt/,Kia,Lap rap,Crossover,7 cho,1999 cc,,So san,117 kW @ 6500 rpm,FWD,Xang,58 Lit
+Ford Fiesta Sport,https://xebiz.vn/gia-xe/ford-fiesta-sport/,Ford,Lap rap,Hatchback,5 cho,1596 cc,,So san,147 kW @ 6000 rpm,RWD,Xang,46 Lit
+Ford Ranger XL 2.2L 4x4 MT,https://xebiz.vn/gia-xe/ford-ranger-xl-2-2l-4x4-mt/,Ford,Nhap khau,Xe ban tai,5 cho,2198 cc,,So san,117.7 kW @ 3200 rpm,4WD,Dau,80 Lit
+Honda Jazz 1.5 RS CVT,https://xebiz.vn/gia-xe/honda-jazz-1-5-rs-cvt/,Honda,Nhap khau,Hatchback,5 cho,1497 cc,,Vo cap CVT,88 kW @ 6600 rpm,FWD,Xang,40 Lit
+Honda Mobilio 1.5 RS CVT,https://xebiz.vn/gia-xe/honda-mobilio-1-5-rs-cvt/,Honda,Nhap khau,Minivan,7 cho,1497 cc,,Vo cap CVT,,FWD,Xang,48 Lit
+Toyota Hilux 2.4 4X2 MT,https://xebiz.vn/gia-xe/toyota-hilux-2-4-4x2-mt/,Toyota,Nhap khau,Xe ban tai,5 cho,2393 cc,,So san,11014 kW @ 3400 rpm,RWD,Dau,80 Lit
+Chevrolet Colorado 2.5L 4x2 MT LT,https://xebiz.vn/gia-xe/chevrolet-colorado-2-5l-4x2-mt-lt/,Chevrolet,Nhap khau,Xe ban tai,4 cho,2457 cc,,So san,134 kW @ 3600 rpm,2WD,Dau,79 Lit
+Ford Focus Hatchback Trend,https://xebiz.vn/gia-xe/ford-focus-hatchback-trend/,Ford,Lap rap,Hatchback,5 cho,1500 cc,,Tu dong,,RWD,Xang,55 Lit
+Ford Focus Trend,https://xebiz.vn/gia-xe/ford-focus-trend/,Ford,Lap rap,Sedan,5 cho,1500 cc,,Tu dong,,RWD,Xang,55 Lit
+Suzuki XL7 Beta,https://xebiz.vn/gia-xe/suzuki-xl7-beta/,Suzuki,Nhap khau,Crossover,7 cho,1462 cc,,Tu dong,76.8 kW @ 6000 rpm,FWD,Xang,45 Lit
+Ford Ranger XLS 2.2L 4x2 MT,https://xebiz.vn/gia-xe/ford-ranger-xls-2-2l-4x2-mt/,Ford,Nhap khau,Xe ban tai,5 cho,2198 cc,,So san,117.7 kW @ 3200 rpm,2WD,Dau,80 Lit
+Mitsubishi Xpander AT,https://xebiz.vn/gia-xe/mitsubishi-xpander-at/,Mitsubishi,Nhap khau,Crossover,7 cho,1499 cc,,Tu dong,,2WD,Xang,45 Lit
+Nissan Navara 2.5 AT 2WD EL A-IVI,https://xebiz.vn/gia-xe/nissan-navara-2-5-at-2wd-el-a-ivi/,Nissan,Nhap khau,Xe ban tai,4 cho,2488 cc,,Tu dong,121.5 kW @ 3600 rpm,2WD,Dau,80 Lit
+Chevrolet Orlando LS 1.8 MT,https://xebiz.vn/gia-xe/chevrolet-orlando-ls-1-8-mt/,Chevrolet,Nhap khau,Minivan,7 cho,1796 cc,,So san,,FWD,Xang,65 Lit
+Honda BR-V 1.5 E CVT,https://xebiz.vn/gia-xe/honda-br-v-1-5-e-cvt/,Honda,Nhap khau,Crossover,7 cho,1497 cc,,Vo cap CVT,88 kW @ 1497 rpm,,Xang,42 Lit
+Kia Cerato 1.6 Deluxe,https://xebiz.vn/gia-xe/kia-cerato-1-6-deluxe/,Kia,Lap rap,Sedan,5 cho,1591 cc,,Tu dong,150 kW @ 6000 rpm,FWD,Xang,50 Lit
+Hyundai Kona 2.0AT Tieu chuan,https://xebiz.vn/gia-xe/hyundai-kona-2-0at-tieu-chuan/,Hyundai,Lap rap,Crossover,5 cho,1999 cc,,Tu dong,109.6 kW @ 62 rpm,FWD,Xang,50 Lit
+Ford EcoSport 1.5L AT Titanium,https://xebiz.vn/gia-xe/ford-ecosport-1-5l-at-titanium/,Ford,Lap rap,SUV,5 cho,1495 cc,,Tu dong,,FWD,Xang,52 Lit
+Ford EcoSport Titanium 1.5AT 2019,https://xebiz.vn/gia-xe/ford-ecosport-titanium-1-5at-2019/,Ford,Lap rap,SUV,5 cho,1500 cc,,Tu dong,,,Xang,52 Lit
+Kia Seltos 1.4 Luxury,https://xebiz.vn/gia-xe/kia-seltos-1-4-luxury/,Kia,Lap rap,SUV,5 cho,1353 cc,,Vo cap CVT,,2WD,Xang,50 Lit
+Chevrolet Colorado 2.5L 4x4 MT LT,https://xebiz.vn/gia-xe/chevrolet-colorado-2-5l-4x4-mt-lt/,Chevrolet,Nhap khau,Xe ban tai,4 cho,2457 cc,,So san,134 kW @ 3600 rpm,4WD,Dau,79 Lit
+Mazda 2 1.5 Premium Sedan,https://xebiz.vn/gia-xe/mazda-2-1-5-premium-sedan/,Mazda,Nhap khau,Sedan,5 cho,1496 cc,,Tu dong,82 kW @ 6000 rpm,FWD,Xang,44 Lit
+Mitsubishi Xpander 1.5 AT 2021,https://xebiz.vn/gia-xe/mitsubishi-xpander-1-5-at-2021/,Mitsubishi,Nhap khau,Crossover,7 cho,1499 cc,,Tu dong,76.8 kW @ 6000 rpm,2WD,Xang,45 Lit
+Toyota Yaris 1.5G CVT,https://xebiz.vn/gia-xe/toyota-yaris-1-5g-cvt/,Toyota,Nhap khau,Hatchback,5 cho,1496 cc,,Vo cap CVT,79 kW @ 6000 rpm,FWD,Xang,42 Lit
+Ford Ranger XLS 2.2L 4x2 AT,https://xebiz.vn/gia-xe/ford-ranger-xls-2-2l-4x2-at/,Ford,Nhap khau,Xe ban tai,5 cho,2198 cc,,Tu dong,117.7 kW @ 3200 rpm,2WD,Dau,80 Lit
+Toyota Yaris 1.5G CVT 2021,https://xebiz.vn/gia-xe/toyota-yaris-1-5g-cvt-2021/,Toyota,Nhap khau,Hatchback,5 cho,1496 cc,,Vo cap CVT,79 kW @ 6000 rpm,FWD,Xang,42 Lit
+Mitsubishi Xpander Special Edition,https://xebiz.vn/gia-xe/mitsubishi-xpander-special-edition/,Mitsubishi,Nhap khau,Crossover,7 cho,1499 cc,,Tu dong,,2WD,Xang,45 Lit
+Kia Cerato Hatchback 1.6 AT,https://xebiz.vn/gia-xe/kia-cerato-hatchback-1-6-at/,Kia,Nhap khau,Hatchback,5 cho,1591 cc,,Tu dong,95 kW @ 6300 rpm,FWD,Xang,50 Lit
+Isuzu D-Max LS 1.9 MT 4X2,https://xebiz.vn/gia-xe/isuzu-d-max-ls-1-9-mt-4x2/,Isuzu,Nhap khau,Xe ban tai,5 cho,1898 cc,,So san,110 kW @ 3600 rpm,2WD,Dau,76 Lit
+Chevrolet Colorado 2.5L 4x2 AT LT,https://xebiz.vn/gia-xe/chevrolet-colorado-2-5l-4x2-at-lt/,Chevrolet,Nhap khau,Xe ban tai,4 cho,2457 cc,,Tu dong,120 kW @ 3600 rpm,2WD,Dau,79 Lit
+Hyundai Elantra 1.6 AT,https://xebiz.vn/gia-xe/hyundai-elantra-1-6-at/,Hyundai,Lap rap,Sedan,5 cho,1591 cc,,Tu dong,94.1 kW @ 6300 rpm,FWD,Xang,50 Lit
+Mazda BT-50 Standard 4x4,https://xebiz.vn/gia-xe/mazda-bt-50-standard-4x4/,Mazda,Nhap khau,Xe ban tai,5 cho,2198 cc,,So san,110 kW @ 3000 rpm,4WD,Dau,80 Lit
+Toyota Hilux 2.4 4x2 AT,https://xebiz.vn/gia-xe/toyota-hilux-2-4-4x2-at/,Toyota,Nhap khau,Xe ban tai,5 cho,2393 cc,,Tu dong,11014 kW @ 3400 rpm,RWD,Dau,80 Lit
+Mazda BT-50 Luxury 4x2,https://xebiz.vn/gia-xe/mazda-bt-50-luxury-4x2/,Mazda,Nhap khau,Xe ban tai,5 cho,2198 cc,,Tu dong,110 kW @ 3000 rpm,2WD,Dau,80 Lit
+Toyota Rush S 1.5AT 2021,https://xebiz.vn/gia-xe/toyota-rush-s-1-5at-2021/,Toyota,Nhap khau,SUV,7 cho,1496 cc,,Tu dong,76 kW @ 6300 rpm,RWD,Xang,45 Lit
+Toyota Rush 1.5 AT S,https://xebiz.vn/gia-xe/toyota-rush-1-5-at-s/,Toyota,Nhap khau,SUV,7 cho,1496 cc,,Tu dong,76 kW @ 10263 rpm,RWD,Xang,45 Lit
+Renault Sandero 1.6 AT,https://xebiz.vn/gia-xe/renault-sandero-1-6-at/,Renault,Nhap khau,Hatchback,5 cho,1598 cc,,Tu dong,,FWD,Xang,50 Lit
+Kia Rondo 2.0 Deluxe,https://xebiz.vn/gia-xe/kia-rondo-2-0-deluxe/,Kia,Lap rap,Crossover,7 cho,1999 cc,,Tu dong,117 kW @ 6500 rpm,FWD,Xang,58 Lit
+Mitsubishi Xpander Cross 1.5 AT,https://xebiz.vn/gia-xe/mitsubishi-xpander-cross-1-5-at/,Mitsubishi,Nhap khau,Crossover,7 cho,1499 cc,,Tu dong,,2WD,Xang,45 Lit
+Kia Cerato 2.0 Premium,https://xebiz.vn/gia-xe/kia-cerato-2-0-premium/,Kia,Lap rap,Sedan,5 cho,1999 cc,,Tu dong,118 kW @ 6500 rpm,FWD,Xang,50 Lit
+Chevrolet Trax 1.4 LT,https://xebiz.vn/gia-xe/chevrolet-trax-1-4-lt/,Chevrolet,Nhap khau,Crossover,5 cho,1364 cc,,Tu dong,,FWD,Xang,53 Lit
+Mazda BT-50 Deluxe 4x2,https://xebiz.vn/gia-xe/mazda-bt-50-deluxe-4x2/,Mazda,Nhap khau,Xe ban tai,5 cho,2198 cc,,Tu dong,110 kW @ 3000 rpm,2WD,Dau,80 Lit
+Nissan Navara 2.5 MT 4WD SL A-IVI,https://xebiz.vn/gia-xe/nissan-navara-2-5-mt-4wd-sl-a-ivi/,Nissan,Nhap khau,Xe ban tai,5 cho,2488 cc,,So san,140.2 kW @ 3600 rpm,4WD,Dau,80 Lit
+Ford EcoSport 1.0L AT Titanium,https://xebiz.vn/gia-xe/ford-ecosport-1-0l-at-titanium/,Ford,Lap rap,SUV,5 cho,999 cc,,Tu dong,,FWD,Xang,52 Lit
+Ford EcoSport Titanium 1.0 EcoBoost 2019,https://xebiz.vn/gia-xe/ford-ecosport-titanium-1-0-ecoboost-2019/,Ford,Lap rap,SUV,5 cho,1000 cc,,Tu dong,,,Xang,52 Lit
+Chevrolet Orlando LTZ 1.8 AT,https://xebiz.vn/gia-xe/chevrolet-orlando-ltz-1-8-at/,Chevrolet,Nhap khau,Minivan,7 cho,1796 cc,,Tu dong,,FWD,Xang,65 Lit
+Volkswagen Polo Hatchback 1.6 E Comfortline,https://xebiz.vn/gia-xe/volkswagen-polo-hatchback-1-6-e-comfortline/,Volkswagen,Nhap khau,Hatchback,5 cho,1598 cc,,Tu dong,,FWD,Xang,45 Lit
+Toyota Corolla Altis 1.8 E MT,https://xebiz.vn/gia-xe/toyota-corolla-altis-1-8-e-mt/,Toyota,Lap rap,Sedan,5 cho,1798 cc,,So san,138 kW @ 6400 rpm,FWD,Xang,55 Lit
+Hyundai Kona 2.0AT Dac biet,https://xebiz.vn/gia-xe/hyundai-kona-2-0at-dac-biet/,Hyundai,Lap rap,Crossover,5 cho,1999 cc,,Tu dong,109.6 kW @ 62 rpm,FWD,Xang,50 Lit
+Hyundai Elantra 2.0 AT,https://xebiz.vn/gia-xe/hyundai-elantra-2-0-at/,Hyundai,Lap rap,Sedan,5 cho,1999 cc,,Tu dong,114.7 kW @ 6200 rpm,FWD,Xang,50 Lit
+Volkswagen Polo 1.6 E Comfortline,https://xebiz.vn/gia-xe/volkswagen-polo-1-6-e-comfortline/,Volkswagen,Nhap khau,Sedan,5 cho,1598 cc,,Tu dong,76.8 kW @ 5250 rpm,FWD,Xang,55 Lit
+Kia Seltos 1.6 Premium,https://xebiz.vn/gia-xe/kia-seltos-1-6-premium/,Kia,Lap rap,SUV,5 cho,1591 cc,,Vo cap CVT,,2WD,Xang,50 Lit
+Chevrolet Cruze LTZ,https://xebiz.vn/gia-xe/chevrolet-cruze-ltz/,Chevrolet,Nhap khau,Sedan,5 cho,1598 cc,,Tu dong,102 kW @ 3750 rpm,FWD,Xang,51 Lit
+Honda BR-V 1.5 L CVT,https://xebiz.vn/gia-xe/honda-br-v-1-5-l-cvt/,Honda,Nhap khau,Crossover,7 cho,1497 cc,,Vo cap CVT,,,Xang,42 Lit
+Kia Seltos 1.4 Premium,https://xebiz.vn/gia-xe/kia-seltos-1-4-premium/,Kia,Lap rap,SUV,5 cho,1353 cc,,Vo cap CVT,109 kW @ 6200 rpm,AWD,Xang,50 Lit
+Mazda 3 1.5L Deluxe,https://xebiz.vn/gia-xe/mazda-3-1-5l-deluxe/,Mazda,Nhap khau,Sedan,5 cho,1496 cc,,Tu dong,114 kW @ 6000 rpm,FWD,Xang,51 Lit
+Toyota Corolla Cross 1.8 G,https://xebiz.vn/gia-xe/toyota-corolla-cross-1-8-g/,Toyota,Nhap khau,SUV,5 cho,1798 cc,,Vo cap CVT,103 kW @ 6000 rpm,FWD,Xang,47 Lit
+Toyota Corolla Altis 1.8 G CVT,https://xebiz.vn/gia-xe/toyota-corolla-altis-1-8-g-cvt/,Toyota,Lap rap,Sedan,5 cho,1798 cc,,Vo cap CVT,138 kW @ 6400 rpm,FWD,Xang,55 Lit
+Honda Civic 1.8 E,https://xebiz.vn/gia-xe/honda-civic-1-8-e/,Honda,Nhap khau,Sedan,5 cho,1799 cc,,Vo cap CVT,104 kW @ 6500 rpm,RWD,Xang,47 Lit
+Mitsubishi Triton 4x2 AT MIVEC,https://xebiz.vn/gia-xe/mitsubishi-triton-4x2-at-mivec/,Mitsubishi,Nhap khau,Xe ban tai,5 cho,2396 cc,,Tu dong,133.1 kW @ 3500 rpm,RWD,Dau,75 Lit
+Toyota Corolla Altis 1.8 E CVT,https://xebiz.vn/gia-xe/toyota-corolla-altis-1-8-e-cvt/,Toyota,Lap rap,Sedan,5 cho,1798 cc,,Vo cap CVT,138 kW @ 6400 rpm,FWD,Xang,55 Lit
+Isuzu D-Max LS Prestige 1.9 AT 4x2,https://xebiz.vn/gia-xe/isuzu-d-max-ls-prestige-1-9-at-4x2/,Isuzu,Nhap khau,Xe ban tai,5 cho,1898 cc,,Tu dong,110.3 kW @ 3600 rpm,2WD,Dau,76 Lit
+Mitsubishi Triton 4x2 AT MIVEC Premium,https://xebiz.vn/gia-xe/mitsubishi-triton-4x2-at-mivec-premium/,Mitsubishi,Nhap khau,Xe ban tai,5 cho,2396 cc,,Tu dong,133.1 kW @ 3500 rpm,RWD,Dau,75 Lit
+Kia Soul S 2.0 CVT,https://xebiz.vn/gia-xe/kia-soul-s-2-0-cvt/,Kia,Nhap khau,Wagon,5 cho,1999 cc,,Vo cap CVT,110 kW @ 6200 rpm,FWD,Xang,54 Lit
+Mazda BT-50 Premium 4x4,https://xebiz.vn/gia-xe/mazda-bt-50-premium-4x4/,Mazda,Nhap khau,Xe ban tai,5 cho,3198 cc,,Tu dong,147 kW @ 3000 rpm,4WD,Dau,80 Lit
+Hyundai Kona 1.6 Tubro,https://xebiz.vn/gia-xe/hyundai-kona-1-6-tubro/,Hyundai,Lap rap,Crossover,5 cho,1591 cc,,Tu dong,130.2 kW @ 55 rpm,FWD,Xang,50 Lit
+Mazda 3 2.0 AT 2021,https://xebiz.vn/gia-xe/mazda-3-2-0-at-2021/,Mazda,Lap rap,Sedan,5 cho,1998 cc,,Tu dong,114 kW @ 6000 rpm,FWD,Xang,50 Lit
+Mazda CX-30 Premium,https://xebiz.vn/gia-xe/mazda-cx-30-premium/,Mazda,Nhap khau,Crossover,5 cho,2488 cc,,Tu dong,139 kW @ 6000 rpm,AWD,Xang,48 Lit
+Isuzu D-Max LS Prestige 1.9 MT 4x4,https://xebiz.vn/gia-xe/isuzu-d-max-ls-prestige-1-9-mt-4x4/,Isuzu,Nhap khau,Xe ban tai,5 cho,1898 cc,,So san,110 kW @ 3600 rpm,4WD,Dau,76 Lit
+Ford Ranger XLT 2.2L 4x4 MT,https://xebiz.vn/gia-xe/ford-ranger-xlt-2-2l-4x4-mt/,Ford,Nhap khau,Xe ban tai,5 cho,2198 cc,,So san,117.7 kW @ 3200 rpm,4WD,Dau,80 Lit
+Mazda 3 Hatchback 1.5L Sport Deluxe,https://xebiz.vn/gia-xe/mazda-3-hatchback-1-5l-sport-deluxe/,Mazda,Nhap khau,Hatchback,5 cho,1496 cc,,Tu dong,114 kW @ 6000 rpm,FWD,Xang,51 Lit
+Chevrolet Colorado 2.5L 4x4 MT LTZ,https://xebiz.vn/gia-xe/chevrolet-colorado-2-5l-4x4-mt-ltz/,Chevrolet,Nhap khau,Xe ban tai,4 cho,2457 cc,,So san,134 kW @ 3600 rpm,4WD,Dau,79 Lit
+Mazda 3 1.5L Luxury,https://xebiz.vn/gia-xe/mazda-3-1-5l-luxury/,Mazda,Nhap khau,Sedan,5 cho,1496 cc,,Tu dong,114 kW @ 6000 rpm,FWD,Xang,51 Lit
+Hyundai Elantra Sport 1.6 T-GDi,https://xebiz.vn/gia-xe/hyundai-elantra-sport-1-6-t-gdi/,Hyundai,Lap rap,Sedan,5 cho,1591 cc,,Tu dong,150 kW @ 6000 rpm,FWD,Xang,50 Lit
+Ford Focus Hatchback Sport,https://xebiz.vn/gia-xe/ford-focus-hatchback-sport/,Ford,Lap rap,Hatchback,5 cho,1500 cc,,Tu dong,,RWD,Xang,55 Lit
+Ford Focus Titanium,https://xebiz.vn/gia-xe/ford-focus-titanium/,Ford,Lap rap,Sedan,5 cho,1500 cc,,Tu dong,,RWD,Xang,55 Lit
+Toyota Innova 2.0 E MT,https://xebiz.vn/gia-xe/toyota-innova-2-0-e-mt/,Toyota,Lap rap,Minivan,8 cho,1998 cc,,So san,10213 kW @ 5600 rpm,RWD,Xang,70 Lit
+Toyota Hilux 2.4 4x4 MT,https://xebiz.vn/gia-xe/toyota-hilux-2-4-4x4-mt/,Toyota,Nhap khau,Xe ban tai,5 cho,2393 cc,,So san,11014 kW @ 3400 rpm,4WD,Dau,80 Lit
+Isuzu Mu-X B7,https://xebiz.vn/gia-xe/isuzu-mu-x-b7/,Isuzu,Nhap khau,SUV,7 cho,1898 cc,,So san,110 kW @ 3600 rpm,2WD,Dau,65 Lit
+Ford Ranger XLT 2.2L 4x4 AT,https://xebiz.vn/gia-xe/ford-ranger-xlt-2-2l-4x4-at/,Ford,Nhap khau,Xe ban tai,5 cho,2198 cc,,Tu dong,117.7 kW @ 3200 rpm,4WD,Dau,80 Lit
+Ford Ranger LTD 2.2L 4x4 AT,https://xebiz.vn/gia-xe/ford-ranger-ltd-2-2l-4x4-at/,Ford,Nhap khau,Xe ban tai,5 cho,1996 cc,,Tu dong,132.4 kW @ 3500 rpm,2WD,Dau,80 Lit
+Toyota Venza 2.5 CVT,https://xebiz.vn/gia-xe/toyota-venza-2-5-cvt/,Toyota,Nhap khau,SUV,7 cho,2488 cc,,Vo cap CVT,,FWD,Xang,0 Lit
+Nissan Navara 2.5 AT 4WD VL A-IVI,https://xebiz.vn/gia-xe/nissan-navara-2-5-at-4wd-vl-a-ivi/,Nissan,Nhap khau,Xe ban tai,5 cho,2488 cc,,Tu dong,140.2 kW @ 3600 rpm,4WD,Dau,80 Lit
+Honda HR-V 1.8 G CVT,https://xebiz.vn/gia-xe/honda-hr-v-1-8-g-cvt/,Honda,Nhap khau,SUV,5 cho,1799 cc,,Vo cap CVT,105 kW @ 6500 rpm,FWD,Xang,50 Lit
+Honda Civic 1.8 G,https://xebiz.vn/gia-xe/honda-civic-1-8-g/,Honda,Nhap khau,Sedan,5 cho,1799 cc,,Vo cap CVT,104 kW @ 6500 rpm,RWD,,47 Lit
+Chevrolet Colorado 2.5L 4x4 AT LTZ,https://xebiz.vn/gia-xe/chevrolet-colorado-2-5l-4x4-at-ltz/,Chevrolet,Nhap khau,Xe ban tai,4 cho,2457 cc,,Tu dong,134 kW @ 3600 rpm,4WD,Dau,79 Lit
+Kia Optima 2.0 AT,https://xebiz.vn/gia-xe/kia-optima-2-0-at/,Kia,Lap rap,Sedan,5 cho,1999 cc,,Tu dong,113.3 kW @ 6200 rpm,FWD,Xang,70 Lit
+Kia Optima Luxury,https://xebiz.vn/gia-xe/kia-optima-luxury/,Kia,Lap rap,Sedan,5 cho,1999 cc,,Tu dong,113.3 kW @ 6200 rpm,FWD,Xang,70 Lit
+Ford Transit Tieu chuan,https://xebiz.vn/gia-xe/ford-transit-tieu-chuan/,Ford,Nhap khau,Van,16 cho,2402 cc,,So san,102.9 kW @ 3500 rpm,RWD,Dau,80 Lit
+Renault Duster 2.0 AT,https://xebiz.vn/gia-xe/renault-duster-2-0-at/,Renault,Nhap khau,SUV,5 cho,1988 cc,,Tu dong,,4WD,Xang,50 Lit
+Mazda 3 Hatchback 1.5L Sport Luxury,https://xebiz.vn/gia-xe/mazda-3-hatchback-1-5l-sport-luxury/,Mazda,Nhap khau,Hatchback,5 cho,1496 cc,,Tu dong,114 kW @ 6000 rpm,FWD,Xang,51 Lit
+Hyundai Tucson 2.0 Ban Tieu Chuan,https://xebiz.vn/gia-xe/hyundai-tucson-2-0-ban-tieu-chuan/,Hyundai,Lap rap,SUV,5 cho,1999 cc,,Tu dong,114 kW @ 6200 rpm,2WD,Xang,62 Lit
+Kia Sorento 2.4 GAT Deluxe,https://xebiz.vn/gia-xe/kia-sorento-2-4-gat-deluxe/,Kia,Nhap khau,SUV,7 cho,2359 cc,,Tu dong,129 kW @ 6000 rpm,2WD,Xang,72 Lit
+Ford Transit Tieu chuan plus,https://xebiz.vn/gia-xe/ford-transit-tieu-chuan-plus/,Ford,Nhap khau,Van,16 cho,2402 cc,,So san,103 kW @ 3500 rpm,RWD,Dau,80 Lit
+Chevrolet Colorado Storm,https://xebiz.vn/gia-xe/chevrolet-colorado-storm/,Chevrolet,Nhap khau,Xe ban tai,4 cho,2457 cc,,Tu dong,134 kW @ 3600 rpm,4WD,Dau,79 Lit
+Mazda 6 2.0 Deluxe AT,https://xebiz.vn/gia-xe/mazda-6-2-0-deluxe-at/,Mazda,Lap rap,Sedan,5 cho,1998 cc,,Tu dong,140 kW @ 6000 rpm,FWD,Xang,62 Lit
+Chevrolet Colorado High Country,https://xebiz.vn/gia-xe/chevrolet-colorado-high-country/,Chevrolet,Nhap khau,Xe ban tai,4 cho,2457 cc,,Tu dong,134 kW @ 3600 rpm,4WD,Dau,79 Lit
+Mitsubishi Triton 4x4 AT MIVEC,https://xebiz.vn/gia-xe/mitsubishi-triton-4x4-at-mivec/,Mitsubishi,Nhap khau,Xe ban tai,5 cho,2396 cc,,Tu dong,133.1 kW @ 3500 rpm,4WD,Dau,75 Lit
+Isuzu D-Max LS Prestige 3.0 AT 4x4,https://xebiz.vn/gia-xe/isuzu-d-max-ls-prestige-3-0-at-4x4/,Isuzu,Nhap khau,Xe ban tai,5 cho,2999 cc,,Tu dong,130.2 kW @ 3600 rpm,4WD,Dau,76 Lit
+Mitsubishi Outlander 2.0 CVT,https://xebiz.vn/gia-xe/mitsubishi-outlander-2-0-cvt/,Mitsubishi,Lap rap,SUV,7 cho,1999 cc,,Vo cap CVT,,4WD,Xang,60 Lit
+Mazda 3 1.5L Premium,https://xebiz.vn/gia-xe/mazda-3-1-5l-premium/,Mazda,Nhap khau,Sedan,5 cho,1496 cc,,Tu dong,114 kW @ 6000 rpm,FWD,Xang,51 Lit
+Nissan X-Trail 2.0 2WD 2021,https://xebiz.vn/gia-xe/nissan-x-trail-2-0-2wd-2021/,Nissan,Lap rap,Crossover,5 cho,1997 cc,,Vo cap CVT,105 kW @ 6000 rpm,2WD,Xang,54 Lit
+Nissan X-Trail 2.0 2WD,https://xebiz.vn/gia-xe/nissan-x-trail-2-0-2wd/,Nissan,Lap rap,Crossover,7 cho,1997 cc,,Vo cap CVT,105.9 kW @ 6000 rpm,2WD,Xang,60 Lit
+Ford Transit Cao cap,https://xebiz.vn/gia-xe/ford-transit-cao-cap/,Ford,Nhap khau,Van,16 cho,2402 cc,,So san,102.9 kW @ 3500 rpm,RWD,Dau,80 Lit
+Toyota Innova 2.0 G AT,https://xebiz.vn/gia-xe/toyota-innova-2-0-g-at/,Toyota,Lap rap,Minivan,8 cho,1998 cc,,Tu dong,10213 kW @ 5600 rpm,RWD,Xang,70 Lit
+Ford Ranger Wildtrak 2.0L AT 4X2 2021,https://xebiz.vn/gia-xe/ford-ranger-wildtrak-2-0l-at-4x2-2021/,Ford,Nhap khau,Xe ban tai,5 cho,1996 cc,,Tu dong,132.4 kW @ 3500 rpm,FWD,Dau,80 Lit
+Ford Ranger Wildtrak 2.0L 4x2 AT,https://xebiz.vn/gia-xe/ford-ranger-wildtrak-2-0l-4x2-at/,Ford,Nhap khau,Xe ban tai,5 cho,1996 cc,,Tu dong,132.4 kW @ 3500 rpm,2WD,Dau,80 Lit
+Chevrolet Trailblazer 2.5L 4x2 MT LT,https://xebiz.vn/gia-xe/chevrolet-trailblazer-2-5l-4x2-mt-lt/,Chevrolet,Nhap khau,SUV,7 cho,2499 cc,,So san,120 kW @ 3600 rpm,2WD,Dau,76 Lit
+Mitsubishi Triton 4x4 AT MIVEC Premium,https://xebiz.vn/gia-xe/mitsubishi-triton-4x4-at-mivec-premium/,Mitsubishi,Nhap khau,Xe ban tai,5 cho,2396 cc,,Tu dong,133.1 kW @ 3500 rpm,4WD,Xang,75 Lit
+Honda HR-V 1.8 L CVT,https://xebiz.vn/gia-xe/honda-hr-v-1-8-l-cvt/,Honda,Nhap khau,SUV,5 cho,1799 cc,,Vo cap CVT,105 kW @ 6500 rpm,FWD,Xang,50 Lit
+Mazda 3 2.0L Signature Luxury,https://xebiz.vn/gia-xe/mazda-3-2-0l-signature-luxury/,Mazda,Nhap khau,Sedan,5 cho,1998 cc,,Tu dong,114 kW @ 6000 rpm,FWD,Xang,51 Lit
+Mazda 3 Hatchback 1.5L Sport Premium,https://xebiz.vn/gia-xe/mazda-3-hatchback-1-5l-sport-premium/,Mazda,Nhap khau,Hatchback,5 cho,1496 cc,,Tu dong,114 kW @ 6000 rpm,FWD,Xang,51 Lit
+Toyota Innova 2.0 Venturer AT,https://xebiz.vn/gia-xe/toyota-innova-2-0-venturer-at/,Toyota,Lap rap,Minivan,8 cho,1998 cc,,Tu dong,10213 kW @ 5600 rpm,RWD,Xang,70 Lit
+Hyundai Tucson 2.0 Ban Dac Biet,https://xebiz.vn/gia-xe/hyundai-tucson-2-0-ban-dac-biet/,Hyundai,Lap rap,SUV,5 cho,1999 cc,,Tu dong,114 kW @ 6200 rpm,2WD,Xang,62 Lit
+Toyota Hilux 2.8G 4x4 AT,https://xebiz.vn/gia-xe/toyota-hilux-2-8g-4x4-at/,Toyota,Nhap khau,Xe ban tai,5 cho,2755 cc,,Tu dong,13017 kW @ 3400 rpm,4WD,Dau,80 Lit
+Mazda CX-30 2.5 Deluxe,https://xebiz.vn/gia-xe/mazda-cx-30-2-5-deluxe/,Mazda,Nhap khau,Crossover,5 cho,2488 cc,,Tu dong,139 kW @ 6000 rpm,AWD,Xang,48 Lit
+Toyota Corolla Altis 2.0 V CVT,https://xebiz.vn/gia-xe/toyota-corolla-altis-2-0-v-cvt/,Toyota,Lap rap,Sedan,5 cho,1987 cc,,Vo cap CVT,143 kW @ 6200 rpm,FWD,Xang,55 Lit
+Vinfast Lux A2.0 Tieu chuan,https://xebiz.vn/gia-xe/vinfast-lux-a2-0-tieu-chuan/,VinFast,Lap rap,Sedan,5 cho,1996 cc,,Tu dong,129.8 kW @ 4500 rpm,RWD,Xang,70 Lit
+Chevrolet Trailblazer 2.5L VGT 4x2 AT LT,https://xebiz.vn/gia-xe/chevrolet-trailblazer-2-5l-vgt-4x2-at-lt/,Chevrolet,Nhap khau,SUV,7 cho,2499 cc,,Tu dong,134 kW @ 3600 rpm,2WD,Dau,76 Lit
+Volkswagen Jetta 1.4 l4 TSI,https://xebiz.vn/gia-xe/volkswagen-jetta-1-4-l4-tsi/,Volkswagen,Nhap khau,Sedan,5 cho,1395 cc,,Tu dong,110 kW @ 5000 rpm,FWD,Xang,50 Lit
+Kia Sorento 2.4 GATH Premium,https://xebiz.vn/gia-xe/kia-sorento-2-4-gath-premium/,Kia,Nhap khau,SUV,7 cho,2359 cc,,Tu dong,129 kW @ 6000 rpm,2WD,Xang,72 Lit
+Mazda CX-5 2.0 Deluxe,https://xebiz.vn/gia-xe/mazda-cx-5-2-0-deluxe/,Mazda,Lap rap,Crossover,5 cho,1998 cc,,Tu dong,115 kW @ 6000 rpm,FWD,Xang,56 Lit
+Mazda CX-5 2.0 Deluxe 2021,https://xebiz.vn/gia-xe/mazda-cx-5-2-0-deluxe-2021/,Mazda,Lap rap,Crossover,5 cho,1998 cc,,Tu dong,114 kW @ 6000 rpm,FWD,Xang,56 Lit
+Mazda 3 Hatchback 1.5L Sport Signature Luxury,https://xebiz.vn/gia-xe/mazda-3-hatchback-1-5l-sport-signature-luxury/,Mazda,Nhap khau,Hatchback,5 cho,1998 cc,,Tu dong,114 kW @ 6000 rpm,FWD,Xang,51 Lit
+Mazda 6 2.0 Luxury AT,https://xebiz.vn/gia-xe/mazda-6-2-0-luxury-at/,Mazda,Lap rap,Sedan,5 cho,1998 cc,,Tu dong,140 kW @ 6000 rpm,FWD,Xang,62 Lit
+Nissan Terra 2.5L S 2WD 6MT,https://xebiz.vn/gia-xe/nissan-terra-2-5l-s-2wd-6mt/,Nissan,Nhap khau,SUV,7 cho,2488 cc,,So san,140 kW @ 3600 rpm,2WD,Xang,78 Lit
+Ford Ranger Wildtrak 2.0L 4x4 AT,https://xebiz.vn/gia-xe/ford-ranger-wildtrak-2-0l-4x4-at/,Ford,Nhap khau,Xe ban tai,5 cho,1996 cc,,Tu dong,156.7 kW @ 3750 rpm,4WD,Dau,80 Lit
+Mazda 3 2.0L Signature Premium,https://xebiz.vn/gia-xe/mazda-3-2-0l-signature-premium/,Mazda,Nhap khau,Sedan,5 cho,1998 cc,,Tu dong,139 kW @ 6000 rpm,FWD,Xang,51 Lit
+Honda Civic 1.5 RS,https://xebiz.vn/gia-xe/honda-civic-1-5-rs/,Honda,Nhap khau,Sedan,5 cho,1498 cc,,Vo cap CVT,127 kW @ 5500 rpm,RWD,Xang,47 Lit
+Isuzu Mu-X 1.9 PRESTIGE 4X2 AT,https://xebiz.vn/gia-xe/isuzu-mu-x-1-9-prestige-4x2-at/,Isuzu,Nhap khau,SUV,7 cho,1898 cc,,Tu dong,110 kW @ 3600 rpm,2WD,Dau,65 Lit
+Toyota Corolla Altis V Sport,https://xebiz.vn/gia-xe/toyota-corolla-altis-v-sport/,Toyota,Lap rap,Sedan,5 cho,1987 cc,,Vo cap CVT,143 kW @ 6200 rpm,FWD,Xang,55 Lit
+Hyundai Tucson 1.6 Ban Dac Biet,https://xebiz.vn/gia-xe/hyundai-tucson-1-6-ban-dac-biet/,Hyundai,Lap rap,SUV,5 cho,1591 cc,,Tu dong,130.2 kW @ 5500 rpm,2WD,Xang,62 Lit
+Mazda 3 Hatchback 1.5L Sport Signature Premium,https://xebiz.vn/gia-xe/mazda-3-hatchback-1-5l-sport-signature-premium/,Mazda,Nhap khau,Hatchback,5 cho,1998 cc,,Tu dong,114 kW @ 6000 rpm,FWD,Xang,51 Lit
+Hyundai Tucson 2.0 Diesel Ban Dac Biet,https://xebiz.vn/gia-xe/hyundai-tucson-2-0-diesel-ban-dac-biet/,Hyundai,Lap rap,SUV,5 cho,1995 cc,,Tu dong,136.1 kW @ 4000 rpm,FWD,Dau,62 Lit
+Nissan X-Trail V-series 2.0 SL Luxury,https://xebiz.vn/gia-xe/nissan-x-trail-v-series-2-0-sl-luxury/,Nissan,Lap rap,Crossover,7 cho,1997 cc,,Vo cap CVT,105.9 kW @ 6000 rpm,2WD,Xang,60 Lit
+Nissan X-Trail V-series 2.0 SL Luxury 2021,https://xebiz.vn/gia-xe/nissan-x-trail-v-series-2-0-sl-luxury-2021/,Nissan,Lap rap,Crossover,5 cho,1997 cc,,Vo cap CVT,105 kW @ 6000 rpm,AWD,Xang,54 Lit
+Nissan Terra 2.5L E 2WD 7AT,https://xebiz.vn/gia-xe/nissan-terra-2-5l-e-2wd-7at/,Nissan,Nhap khau,SUV,7 cho,2488 cc,,Tu dong,126 kW @ 3600 rpm,2WD,Xang,78 Lit
+Subaru Forester 2.0 I L,https://xebiz.vn/gia-xe/subaru-forester-2-0-i-l/,Subaru,Nhap khau,SUV,5 cho,1995 cc,,Vo cap CVT,186 kW @ 5600 rpm,AWD,Xang,60 Lit
+Kia Sorento 2.2 DAT Premium,https://xebiz.vn/gia-xe/kia-sorento-2-2-dat-premium/,Kia,Lap rap,SUV,7 cho,2199 cc,,Tu dong,145 kW @ 3800 rpm,2WD,Dau,72 Lit
+Mazda CX-5 2.0 Luxury,https://xebiz.vn/gia-xe/mazda-cx-5-2-0-luxury/,Mazda,Lap rap,Crossover,5 cho,1998 cc,,Tu dong,115 kW @ 6000 rpm,FWD,Xang,56 Lit
+Mitsubishi Outlander 2.0 CVT Premium,https://xebiz.vn/gia-xe/mitsubishi-outlander-2-0-cvt-premium/,Mitsubishi,Lap rap,SUV,7 cho,1999 cc,,Vo cap CVT,122.8 kW @ 6000 rpm,4WD,Xang,60 Lit
+Renault Megane 1.6 CVT,https://xebiz.vn/gia-xe/renault-megane-1-6-cvt/,Renault,Nhap khau,Hatchback,5 cho,1598 cc,,Vo cap CVT,,FWD,Xang,60 Lit
+Kia Optima Premium,https://xebiz.vn/gia-xe/kia-optima-premium/,Kia,Lap rap,Sedan,5 cho,2359 cc,,Tu dong,131.2 kW @ 6000 rpm,FWD,Xang,70 Lit
+Toyota Corolla Cross 1.8 HV,https://xebiz.vn/gia-xe/toyota-corolla-cross-1-8-hv/,Toyota,Nhap khau,SUV,5 cho,1798 cc,,Vo cap CVT,103 kW @ 6000 rpm,FWD,Xang,47 Lit
+Toyota Innova 2.0 V AT,https://xebiz.vn/gia-xe/toyota-innova-2-0-v-at/,Toyota,Lap rap,Minivan,7 cho,1998 cc,,Tu dong,10213 kW @ 5600 rpm,RWD,Xang,70 Lit
+Vinfast Lux A2.0 Nang cao,https://xebiz.vn/gia-xe/vinfast-lux-a2-0-nang-cao/,VinFast,Lap rap,Sedan,5 cho,1996 cc,,Tu dong,129 kW @ 6000 rpm,RWD,Xang,70 Lit
+Toyota C-HR 2.0 CVT Limited,https://xebiz.vn/gia-xe/toyota-c-hr-2-0-cvt-limited/,Toyota,Nhap khau,Crossover,5 cho,1987 cc,,Vo cap CVT,107 kW @ 6100 rpm,FWD,Xang,50 Lit
+Mitsubishi Pajero Sport 2.4 Diesel 4X2 MT,https://xebiz.vn/gia-xe/mitsubishi-pajero-sport-2-4-diesel-4x2-mt/,Mitsubishi,Lap rap,SUV,7 cho,2442 cc,,So san,133.1 kW @ 3500 rpm,2WD,Dau,68 Lit
+Hyundai Solati 2.5 MT,https://xebiz.vn/gia-xe/hyundai-solati-2-5-mt/,Hyundai,Nhap khau,Van,16 cho,2497 cc,,So san,125 kW @ 3600 rpm,RWD,Dau,75 Lit
+Honda CR-V 1.5 E,https://xebiz.vn/gia-xe/honda-cr-v-1-5-e/,Honda,Nhap khau,SUV,7 cho,1498 cc,,Vo cap CVT,140 kW @ 5600 rpm,,Xang,57 Lit
+Honda CR-V 1.5E 2021,https://xebiz.vn/gia-xe/honda-cr-v-1-5e-2021/,Honda,Nhap khau,SUV,7 cho,1498 cc,,Vo cap CVT,140 kW @ 5600 rpm,2WD,Xang,0 Lit
+Honda CR-V 1.5 E 2019,https://xebiz.vn/gia-xe/honda-cr-v-1-5-e-2019/,Honda,Nhap khau,SUV,7 cho,1500 cc,,Vo cap CVT,,,,57 Lit
+Mazda CX-5 2.0 Premium,https://xebiz.vn/gia-xe/mazda-cx-5-2-0-premium/,Mazda,Lap rap,Crossover,5 cho,1998 cc,,Tu dong,115 kW @ 6000 rpm,FWD,Xang,56 Lit
+Isuzu Mu-X 1.9 LIMITED,https://xebiz.vn/gia-xe/isuzu-mu-x-1-9-limited/,Isuzu,Nhap khau,SUV,7 cho,1898 cc,,Tu dong,110 kW @ 3600 rpm,2WD,Dau,65 Lit
+Hyundai SantaFe 2.4 Xang,https://xebiz.vn/gia-xe/hyundai-santafe-2-4-xang/,Hyundai,Lap rap,SUV,7 cho,2395 cc,,Tu dong,,FWD,Xang,0 Lit
+Peugeot 3008 AT,https://xebiz.vn/gia-xe/peugeot-3008-at/,Peugeot,Nhap khau,Crossover,5 cho,1598 cc,,Tu dong,,AWD,Xang,53 Lit
+Ford Everest Ambiente 2.0 MT 4x2,https://xebiz.vn/gia-xe/ford-everest-ambiente-2-0-mt-4x2/,Ford,Nhap khau,SUV,7 cho,1996 cc,,So san,132.4 kW @ 3500 rpm,RWD,Dau,80 Lit
+Toyota Hiace 3.0 MT,https://xebiz.vn/gia-xe/toyota-hiace-3-0-mt/,Toyota,Nhap khau,Van,15 cho,2982 cc,,So san,10014 kW @ 3400 rpm,RWD,Dau,70 Lit
+Ford Tourneo Trend,https://xebiz.vn/gia-xe/ford-tourneo-trend/,Ford,Lap rap,Van,7 cho,1997 cc,,Tu dong,147 kW @ 5500 rpm,RWD,Xang,80 Lit
+Mazda CX-5 2.5 Premium AT 2WD,https://xebiz.vn/gia-xe/mazda-cx-5-2-5-premium-at-2wd/,Mazda,Lap rap,Crossover,5 cho,2488 cc,,Tu dong,140 kW @ 6000 rpm,2WD,Xang,58 Lit
+Mazda CX-5 2.5 Premium AT 4WD,https://xebiz.vn/gia-xe/mazda-cx-5-2-5-premium-at-4wd/,Mazda,Lap rap,Crossover,5 cho,2488 cc,,Tu dong,140 kW @ 6000 rpm,4WD,Xang,58 Lit
+Mazda 6 2.5 AT Premium 2021,https://xebiz.vn/gia-xe/mazda-6-2-5-at-premium-2021/,Mazda,Lap rap,Sedan,5 cho,2488 cc,,Tu dong,169 kW @ 5000 rpm,FWD,Xang,62 Lit
+Mazda CX-5 2.5 Signature Premium 2WD,https://xebiz.vn/gia-xe/mazda-cx-5-2-5-signature-premium-2wd/,Mazda,Lap rap,Crossover,5 cho,2488 cc,,Tu dong,140 kW @ 4500 rpm,2WD,Xang,58 Lit
+Subaru Forester 2.0 I S,https://xebiz.vn/gia-xe/subaru-forester-2-0-i-s/,Subaru,Nhap khau,SUV,5 cho,1998 cc,,Vo cap CVT,186 kW @ 5600 rpm,AWD,Xang,60 Lit
+Mazda 6 2.5 Premium AT,https://xebiz.vn/gia-xe/mazda-6-2-5-premium-at/,Mazda,Lap rap,Sedan,5 cho,2488 cc,,Tu dong,140 kW @ 6000 rpm,FWD,Xang,62 Lit
+Honda CR-V 1.5 G 2019,https://xebiz.vn/gia-xe/honda-cr-v-1-5-g-2019/,Honda,Nhap khau,SUV,7 cho,1500 cc,,Vo cap CVT,,,Xang,57 Lit
+Honda CR-V 1.5 G,https://xebiz.vn/gia-xe/honda-cr-v-1-5-g/,Honda,Nhap khau,SUV,7 cho,1498 cc,,Vo cap CVT,140 kW @ 5600 rpm,,Xang,57 Lit
+Nissan X-Trail V-series 2.5 SV Luxury,https://xebiz.vn/gia-xe/nissan-x-trail-v-series-2-5-sv-luxury/,Nissan,Lap rap,Crossover,7 cho,2488 cc,,Vo cap CVT,126 kW @ 6000 rpm,4WD,Xang,60 Lit
+Nissan X-Trail V-series 2.5 SV Luxury 2021,https://xebiz.vn/gia-xe/nissan-x-trail-v-series-2-5-sv-luxury-2021/,Nissan,Lap rap,Crossover,5 cho,2488 cc,,Vo cap CVT,127 kW @ 6000 rpm,4WD,Xang,54 Lit
+Honda CR-V 1.5G 2021,https://xebiz.vn/gia-xe/honda-cr-v-1-5g-2021/,Honda,Nhap khau,SUV,7 cho,1498 cc,,Vo cap CVT,141.7 kW @ 5600 rpm,4WD,Xang,0 Lit
+Toyota Camry 2.0 G AT,https://xebiz.vn/gia-xe/toyota-camry-2-0-g-at/,Toyota,Lap rap,Sedan,5 cho,1998 cc,,Tu dong,123 kW @ 6500 rpm,FWD,Xang,60 Lit
+Toyota Fortuner 2.4 G 4X2 MT,https://xebiz.vn/gia-xe/toyota-fortuner-2-4-g-4x2-mt/,Toyota,Lap rap,SUV,7 cho,2393 cc,,So san,110 kW @ 148 rpm,RWD,Dau,80 Lit
+Chevrolet Trailblazer 2.5L VGT 4x4 AT LTZ,https://xebiz.vn/gia-xe/chevrolet-trailblazer-2-5l-vgt-4x4-at-ltz/,Chevrolet,Nhap khau,SUV,7 cho,2499 cc,,Tu dong,134 kW @ 3600 rpm,4WD,Dau,76 Lit
+Nissan Juke Nismo,https://xebiz.vn/gia-xe/nissan-juke-nismo/,Nissan,Nhap khau,Crossover,5 cho,1618 cc,,Vo cap CVT,140 kW @ 5600 rpm,AWD,Xang,44 Lit
+Ford Everest Ambiente 2.0 AT 4x2,https://xebiz.vn/gia-xe/ford-everest-ambiente-2-0-at-4x2/,Ford,Nhap khau,SUV,7 cho,1996 cc,,Tu dong,132.4 kW @ 3500 rpm,RWD,Dau,80 Lit
+Hyundai SantaFe 2.2 Dau,https://xebiz.vn/gia-xe/hyundai-santafe-2-2-dau/,Hyundai,Lap rap,SUV,7 cho,2199 cc,,Tu dong,147.1 kW @ 38 rpm,FWD,Dau,71 Lit
+Mitsubishi Pajero Sport 2.4 Diesel 4X2 AT,https://xebiz.vn/gia-xe/mitsubishi-pajero-sport-2-4-diesel-4x2-at/,Mitsubishi,Lap rap,SUV,7 cho,2442 cc,,Tu dong,133.1 kW @ 3500 rpm,2WD,Dau,68 Lit
+Ford Tourneo Titanium,https://xebiz.vn/gia-xe/ford-tourneo-titanium/,Ford,Lap rap,Van,7 cho,1997 cc,,Tu dong,147 kW @ 5500 rpm,RWD,Xang,80 Lit
+Mitsubishi Pajero Sport 3.0 Gasoline 4x2 AT,https://xebiz.vn/gia-xe/mitsubishi-pajero-sport-3-0-gasoline-4x2-at/,Mitsubishi,Nhap khau,SUV,7 cho,2998 cc,,Tu dong,161.8 kW @ 6000 rpm,2WD,Xang,70 Lit
+Honda CR-V 1.5L 2021,https://xebiz.vn/gia-xe/honda-cr-v-1-5l-2021/,Honda,Nhap khau,SUV,7 cho,1498 cc,,Vo cap CVT,141.7 kW @ 5600 rpm,4WD,Xang,0 Lit
+Honda CR-V 1.5 L,https://xebiz.vn/gia-xe/honda-cr-v-1-5-l/,Honda,Nhap khau,SUV,7 cho,1498 cc,,Vo cap CVT,140 kW @ 5600 rpm,,Xang,57 Lit
+Honda CR-V 1.5 L 2019,https://xebiz.vn/gia-xe/honda-cr-v-1-5-l-2019/,Honda,Nhap khau,SUV,7 cho,1500 cc,,Vo cap CVT,,,Xang,57 Lit
+Toyota Fortuner 2.4 AT 4x2 2021,https://xebiz.vn/gia-xe/toyota-fortuner-2-4-at-4x2-2021/,Toyota,Lap rap,SUV,7 cho,2393 cc,,Tu dong,11014 kW @ 3400 rpm,RWD,Dau,80 Lit
+Toyota Fortuner 2.4 G AT 4X2,https://xebiz.vn/gia-xe/toyota-fortuner-2-4-g-at-4x2/,Toyota,Lap rap,SUV,7 cho,2393 cc,,Tu dong,11014 kW @ 3400 rpm,RWD,Dau,80 Lit
+Mitsubishi Outlander 2.4 Premium,https://xebiz.vn/gia-xe/mitsubishi-outlander-2-4-premium/,Mitsubishi,Lap rap,SUV,7 cho,2360 cc,,Vo cap CVT,122.8 kW @ 6000 rpm,4WD,Xang,60 Lit
+Vinfast Lux A2.0 Cao cap,https://xebiz.vn/gia-xe/vinfast-lux-a2-0-cao-cap/,VinFast,Lap rap,Sedan,5 cho,1996 cc,,Tu dong,170 kW @ 5000 rpm,RWD,Xang,70 Lit
+Ford Everest Trend 2.0 AT 4x2,https://xebiz.vn/gia-xe/ford-everest-trend-2-0-at-4x2/,Ford,Nhap khau,SUV,7 cho,1996 cc,,Tu dong,132.4 kW @ 3500 rpm,RWD,Dau,80 Lit
+Isuzu Mu-X 3.0 PRESTIGE 4X4 AT,https://xebiz.vn/gia-xe/isuzu-mu-x-3-0-prestige-4x4-at/,Isuzu,Nhap khau,SUV,7 cho,2999 cc,,Tu dong,130 kW @ 3600 rpm,4WD,Dau,65 Lit
+Kia Sedona 2.2 Luxury,https://xebiz.vn/gia-xe/kia-sedona-2-2-luxury/,Kia,Lap rap,Minivan,7 cho,2199 cc,,Tu dong,146.9 kW @ 3800 rpm,FWD,Dau,80 Lit
+Hyundai SantaFe 2.4 Xang dac biet,https://xebiz.vn/gia-xe/hyundai-santafe-2-4-xang-dac-biet/,Hyundai,Lap rap,SUV,7 cho,2359 cc,,Tu dong,138.3 kW @ 6 rpm,FWD,Xang,71 Lit
+Nissan Altima 2.5 SL,https://xebiz.vn/gia-xe/nissan-altima-2-5-sl/,Nissan,Nhap khau,Sedan,5 cho,2488 cc,,Vo cap CVT,140 kW @ 6000 rpm,AWD,Xang,60 Lit
+Nissan Teana 2.5 SL,https://xebiz.vn/gia-xe/nissan-teana-2-5-sl/,Nissan,Nhap khau,Sedan,5 cho,2488 cc,,Vo cap CVT,140 kW @ 6000 rpm,AWD,Xang,60 Lit
+Mazda CX-8 2.5 Skyactiv-T Deluxe AT,https://xebiz.vn/gia-xe/mazda-cx-8-2-5-skyactiv-t-deluxe-at/,Mazda,Lap rap,SUV,7 cho,2488 cc,,Tu dong,140 kW @ 6000 rpm,FWD,Xang,72 Lit
+Peugeot 3008 AL,https://xebiz.vn/gia-xe/peugeot-3008-al/,Peugeot,Lap rap,Crossover,5 cho,1598 cc,,Tu dong,,AWD,Dau,53 Lit
+Mazda CX-5 2.5 Signature Premium AWD,https://xebiz.vn/gia-xe/mazda-cx-5-2-5-signature-premium-awd/,Mazda,Lap rap,Crossover,5 cho,2488 cc,,Tu dong,140 kW @ 4500 rpm,AWD,Xang,58 Lit
+Mazda CX-5 2.5L Signature Premium 2021,https://xebiz.vn/gia-xe/mazda-cx-5-2-5l-signature-premium-2021/,Mazda,Lap rap,Crossover,5 cho,2488 cc,,Tu dong,139 kW @ 6000 rpm,AWD,Xang,57 Lit
+Subaru Forester 2.0i-S EyeSight,https://xebiz.vn/gia-xe/subaru-forester-2-0i-s-eyesight/,Subaru,Nhap khau,SUV,5 cho,1995 cc,,Vo cap CVT,186 kW @ 5600 rpm,AWD,Xang,60 Lit
+Toyota Fortuner 2.7 V 4X2 AT,https://xebiz.vn/gia-xe/toyota-fortuner-2-7-v-4x2-at/,Toyota,Nhap khau,SUV,7 cho,2694 cc,,Tu dong,12216 kW @ 5200 rpm,RWD,Xang,80 Lit
+Mitsubishi Pajero Sport 3.0 V6 Gasoline 4X2 AT SE,https://xebiz.vn/gia-xe/mitsubishi-pajero-sport-3-0-v6-gasoline-4x2-at-se/,Mitsubishi,Nhap khau,SUV,7 cho,2998 cc,,Tu dong,161.8 kW @ 6000 rpm,2WD,Xang,70 Lit
+Land Rover Range Rover Autobiography LWB,https://xebiz.vn/gia-xe/land-rover-range-rover-autobiography-lwb/,Land Rover,Nhap khau,SUV,5 cho,2995 cc,,Tu dong,254 kW @ 6500 rpm,4WD,Xang,103 Lit
+Mitsubishi Pajero Sport 3.0 V6 Gasoline 4X2 AT Premium,https://xebiz.vn/gia-xe/mitsubishi-pajero-sport-3-0-v6-gasoline-4x2-at-premium/,Mitsubishi,Nhap khau,SUV,7 cho,2998 cc,,Tu dong,161.8 kW @ 6000 rpm,2WD,Xang,70 Lit
+Ford Everest Titanium 2.0 AT 4x2,https://xebiz.vn/gia-xe/ford-everest-titanium-2-0-at-4x2/,Ford,Nhap khau,SUV,7 cho,1996 cc,,Tu dong,132.4 kW @ 3500 rpm,RWD,Dau,80 Lit
+Mitsubishi Pajero Sport 3.0 V6 Gasoline 4X4 AT,https://xebiz.vn/gia-xe/mitsubishi-pajero-sport-3-0-v6-gasoline-4x4-at/,Mitsubishi,Nhap khau,SUV,7 cho,2998 cc,,Tu dong,161.8 kW @ 6000 rpm,AWD,Xang,70 Lit
+Hyundai SantaFe 2.4 Xang cao cap,https://xebiz.vn/gia-xe/hyundai-santafe-2-4-xang-cao-cap/,Hyundai,Lap rap,SUV,7 cho,2359 cc,,Tu dong,138.3 kW @ 6 rpm,FWD,Xang,71 Lit
+Hyundai SantaFe 2.4 Xang dac biet 2021,https://xebiz.vn/gia-xe/hyundai-santafe-2-4-xang-dac-biet-2021/,Hyundai,Lap rap,SUV,5 cho,2359 cc,,Tu dong,138 kW @ 6000 rpm,AWD,Xang,71 Lit
+Hyundai SantaFe 2.2 Dau dac biet,https://xebiz.vn/gia-xe/hyundai-santafe-2-2-dau-dac-biet/,Hyundai,Lap rap,SUV,7 cho,2199 cc,,Tu dong,147.1 kW @ 38 rpm,FWD,Dau,71 Lit
+Ford Ranger Raptor 2.0L AT 4X4,https://xebiz.vn/gia-xe/ford-ranger-raptor-2-0l-at-4x4/,Ford,Nhap khau,Xe ban tai,5 cho,1996 cc,,Tu dong,156.7 kW @ 3750 rpm,2WD,Dau,80 Lit
+Nissan Terra 2.5L V 4WD 7AT,https://xebiz.vn/gia-xe/nissan-terra-2-5l-v-4wd-7at/,Nissan,Nhap khau,SUV,7 cho,2488 cc,,Tu dong,126 kW @ 3600 rpm,4WD,Xang,78 Lit
+Toyota Fortuner 2.4 TRD AT 4X2,https://xebiz.vn/gia-xe/toyota-fortuner-2-4-trd-at-4x2/,Toyota,Lap rap,SUV,7 cho,2393 cc,,Tu dong,158 kW @ 5200 rpm,RWD,Xang,0 Lit
+Mazda CX-8 2.5 Skyactiv-T Luxury AT,https://xebiz.vn/gia-xe/mazda-cx-8-2-5-skyactiv-t-luxury-at/,Mazda,Lap rap,SUV,7 cho,2488 cc,,Tu dong,140 kW @ 6000 rpm,FWD,Xang,72 Lit
+Peugeot 5008 AT,https://xebiz.vn/gia-xe/peugeot-5008-at/,Peugeot,Nhap khau,SUV,7 cho,1598 cc,,Tu dong,123 kW @ 6000 rpm,4WD,Xang,56 Lit
+Hyundai Sonata Limited,https://xebiz.vn/gia-xe/hyundai-sonata-limited/,Hyundai,Nhap khau,Sedan,5 cho,1598 cc,,Tu dong,134 kW @ 5500 rpm,AWD,Xang,60 Lit
+Kia Sedona 2.2 Platinum D,https://xebiz.vn/gia-xe/kia-sedona-2-2-platinum-d/,Kia,Lap rap,Minivan,7 cho,2199 cc,,Tu dong,146.9 kW @ 3800 rpm,FWD,Dau,80 Lit
+Toyota Camry 2.5 Q AT,https://xebiz.vn/gia-xe/toyota-camry-2-5-q-at/,Toyota,Nhap khau,Sedan,5 cho,2494 cc,,Tu dong,135 kW @ 6000 rpm,FWD,Xang,60 Lit
+Toyota Fortuner 2.7 V 4X4 AT,https://xebiz.vn/gia-xe/toyota-fortuner-2-7-v-4x4-at/,Toyota,Nhap khau,SUV,7 cho,2694 cc,,Tu dong,12216 kW @ 5200 rpm,4WD,Xang,80 Lit
+Volkswagen Passat GP,https://xebiz.vn/gia-xe/volkswagen-passat-gp/,Volkswagen,Nhap khau,Sedan,5 cho,1798 cc,,Tu dong,130 kW @ 5200 rpm,FWD,Xang,70 Lit
+Hyundai SantaFe 2.2 Dau cao cap,https://xebiz.vn/gia-xe/hyundai-santafe-2-2-dau-cao-cap/,Hyundai,Lap rap,SUV,7 cho,2199 cc,,Tu dong,147.1 kW @ 38 rpm,FWD,Dau,71 Lit
+Subaru Legacy 2.5i-S,https://xebiz.vn/gia-xe/subaru-legacy-2-5i-s/,Subaru,Nhap khau,Sedan,5 cho,2498 cc,,Vo cap CVT,136 kW @ 5800 rpm,AWD,Xang,70 Lit
+Mitsubishi Pajero Sport 3.0 V6 Gasoline 4X4 AT Premium,https://xebiz.vn/gia-xe/mitsubishi-pajero-sport-3-0-v6-gasoline-4x4-at-premium/,Mitsubishi,Nhap khau,SUV,7 cho,2998 cc,,Tu dong,161.8 kW @ 6000 rpm,AWD,Xang,70 Lit
+Honda Accord 1.5L,https://xebiz.vn/gia-xe/honda-accord-1-5l/,Honda,Nhap khau,Sedan,5 cho,1498 cc,,Vo cap CVT,140 kW @ 5500 rpm,FWD,Xang,56 Lit
+Honda Clarity Hybrid,https://xebiz.vn/gia-xe/honda-clarity-hybrid/,Honda,Nhap khau,Sedan,5 cho,1498 cc,,Vo cap CVT,158 kW @ 5500 rpm,FWD,Dien,26 Lit
+Vinfast Lux SA2.0 Tieu chuan,https://xebiz.vn/gia-xe/vinfast-lux-sa2-0-tieu-chuan/,VinFast,Lap rap,SUV,7 cho,1998 cc,,Tu dong,170 kW @ 5000 rpm,RWD,Xang,85 Lit
+Mercedes-Benz C180 1.6 Turbo,https://xebiz.vn/gia-xe/mercedes-benz-c180-1-6-turbo/,Mercedes,Nhap khau,Sedan,5 cho,1595 cc,,Tu dong,114.8 kW @ 5300 rpm,RWD,Xang,41 Lit
+Ford Transit Limousine,https://xebiz.vn/gia-xe/ford-transit-limousine/,Ford,Nhap khau,Van,10 cho,2402 cc,,So san,102.9 kW @ 3500 rpm,RWD,Dau,80 Lit
+Mercedes-Benz A200 1.6 AT,https://xebiz.vn/gia-xe/mercedes-benz-a200-1-6-at/,Mercedes,Nhap khau,Hatchback,5 cho,1595 cc,,Tu dong,,FWD,Xang,50 Lit
+Mazda CX-8 2.5 Skyactiv-T Premium AT,https://xebiz.vn/gia-xe/mazda-cx-8-2-5-skyactiv-t-premium-at/,Mazda,Lap rap,SUV,7 cho,2488 cc,,Tu dong,140 kW @ 6000 rpm,2WD,Xang,72 Lit
+Peugeot 5008 AL,https://xebiz.vn/gia-xe/peugeot-5008-al/,Peugeot,Lap rap,SUV,7 cho,1598 cc,,Tu dong,123 kW @ 6000 rpm,4WD,Xang,56 Lit
+Audi Q2 30 TFSI,https://xebiz.vn/gia-xe/audi-q2-30-tfsi/,Audi,Nhap khau,SUV,5 cho,999 cc,,Tu dong,85 kW @ 5000 rpm,FWD,Xang,50 Lit
+Toyota Fortuner 2.8 V 4X4 AT,https://xebiz.vn/gia-xe/toyota-fortuner-2-8-v-4x4-at/,Toyota,Lap rap,SUV,7 cho,2755 cc,,Tu dong,13017 kW @ 3400 rpm,4WD,Dau,80 Lit
+Renault Latitude 2.0 TCE 16V 140 CVT,https://xebiz.vn/gia-xe/renault-latitude-2-0-tce-16v-140-cvt/,Renault,Nhap khau,Sedan,5 cho,1997 cc,,Vo cap CVT,170 kW @ 6000 rpm,2WD,Xang,70 Lit
+BMW 218i Gran Tourer,https://xebiz.vn/gia-xe/bmw-218i-gran-tourer/,BMW,Nhap khau,Hatchback,5 cho,1499 cc,,Tu dong,101.4 kW @ 6500 rpm,FWD,Xang,51 Lit
+Vinfast Lux SA2.0 Nang cao,https://xebiz.vn/gia-xe/vinfast-lux-sa2-0-nang-cao/,VinFast,Lap rap,SUV,7 cho,1998 cc,,Tu dong,170 kW @ 5000 rpm,RWD,Xang,85 Lit
+Mazda CX-8 2.5 Skyactiv-T Premium AT 4WD,https://xebiz.vn/gia-xe/mazda-cx-8-2-5-skyactiv-t-premium-at-4wd/,Mazda,Lap rap,SUV,7 cho,2488 cc,,Tu dong,140 kW @ 6000 rpm,4WD,Xang,72 Lit
+Ford Everest Titanium 2.0L AT 4WD,https://xebiz.vn/gia-xe/ford-everest-titanium-2-0l-at-4wd/,Ford,Nhap khau,SUV,7 cho,1996 cc,,Tu dong,156.7 kW @ 3750 rpm,4WD,Dau,80 Lit
+Honda Insight EX,https://xebiz.vn/gia-xe/honda-insight-ex/,Honda,Nhap khau,Sedan,5 cho,1498 cc,,Vo cap CVT,113 kW @ 6000 rpm,,Dien,40 Lit
+Renault Koleos 2.5 TCE,https://xebiz.vn/gia-xe/renault-koleos-2-5-tce/,Renault,Nhap khau,SUV,5 cho,2448 cc,,Vo cap CVT,,2WD,Xang,65 Lit
+Volkswagen Passat 1.8 TSI Blue Motion Comfort,https://xebiz.vn/gia-xe/volkswagen-passat-1-8-tsi-blue-motion-comfort/,Volkswagen,Nhap khau,Sedan,5 cho,1798 cc,,Tu dong,130 kW @ 5200 rpm,FWD,Xang,70 Lit
+BMW 118i M Sport,https://xebiz.vn/gia-xe/bmw-118i-m-sport/,BMW,Nhap khau,Hatchback,5 cho,1499 cc,,Tu dong,,RWD,Xang,52 Lit
+Kia Sedona 3.3 Platinum G,https://xebiz.vn/gia-xe/kia-sedona-3-3-platinum-g/,Kia,Lap rap,Minivan,7 cho,3342 cc,,Tu dong,198.4 kW @ 6400 rpm,FWD,Xang,80 Lit
+Honda Ridgeline Sport,https://xebiz.vn/gia-xe/honda-ridgeline-sport/,Honda,Nhap khau,Xe ban tai,5 cho,3471 cc,,Tu dong,209 kW @ 6000 rpm,AWD,Xang,73 Lit
+Volkswagen Beetle 2.0 Dune,https://xebiz.vn/gia-xe/volkswagen-beetle-2-0-dune/,Volkswagen,Nhap khau,Hatchback,4 cho,1984 cc,,Tu dong,130 kW @ 5000 rpm,FWD,Xang,54 Lit
+Subaru Levorg Sport 2.0,https://xebiz.vn/gia-xe/subaru-levorg-sport-2-0/,Subaru,Nhap khau,Wagon,5 cho,1995 cc,,Vo cap CVT,113 kW @ 6000 rpm,AWD,Xang,50 Lit
+Volkswagen Passat 1.8 TSI Blue Motion,https://xebiz.vn/gia-xe/volkswagen-passat-1-8-tsi-blue-motion/,Volkswagen,Nhap khau,Sedan,5 cho,1798 cc,,Tu dong,130 kW @ 5200 rpm,FWD,Xang,70 Lit
+Renault Latitude 2.5 TCE V6 180,https://xebiz.vn/gia-xe/renault-latitude-2-5-tce-v6-180/,Renault,Nhap khau,Sedan,5 cho,2498 cc,,Tu dong,,2WD,Xang,70 Lit
+Renault Koleos 2.5 Privilege TCE 4WD,https://xebiz.vn/gia-xe/renault-koleos-2-5-privilege-tce-4wd/,Renault,Nhap khau,SUV,5 cho,2448 cc,,Vo cap CVT,,4WD,Xang,65 Lit
+Mercedes-Benz C200 2.0 AT,https://xebiz.vn/gia-xe/mercedes-benz-c200-2-0-at/,Mercedes,Lap rap,Sedan,5 cho,1991 cc,,Tu dong,135 kW @ 6100 rpm,RWD,Xang,66 Lit
+Renault Megane 2.0 R.S. TCE,https://xebiz.vn/gia-xe/renault-megane-2-0-r-s-tce/,Renault,Nhap khau,Hatchback,5 cho,1997 cc,,Vo cap CVT,195 kW @ 5500 rpm,FWD,Xang,50 Lit
+Renault Talisman 1.6 AT,https://xebiz.vn/gia-xe/renault-talisman-1-6-at/,Renault,Nhap khau,Sedan,5 cho,1598 cc,,Tu dong,,FWD,Xang,51 Lit
+Hyundai Starex Limousine,https://xebiz.vn/gia-xe/hyundai-starex-limousine/,Hyundai,Nhap khau,Van,9 cho,2359 cc,,Tu dong,124.3 kW @ 6000 rpm,2WD,Xang,75 Lit
+Toyota Prius Limited,https://xebiz.vn/gia-xe/toyota-prius-limited/,Toyota,Nhap khau,Hatchback,5 cho,1797 cc,,Vo cap CVT,90 kW @ 5200 rpm,AWD,Xang,42 Lit
+Audi A3 1.4 TFSI,https://xebiz.vn/gia-xe/audi-a3-1-4-tfsi/,Audi,Nhap khau,Sedan,5 cho,1398 cc,,Tu dong,110 kW @ 4500 rpm,FWD,Xang,54 Lit
+Mercedes-Benz CLA 200 1.6 I4,https://xebiz.vn/gia-xe/mercedes-benz-cla-200-1-6-i4/,Mercedes,Nhap khau,Coupe,6 cho,1595 cc,,Tu dong,115 kW @ 5300 rpm,FWD,Xang,50 Lit
+MINI Cooper ONE 5 DOOR,https://xebiz.vn/gia-xe/mini-cooper-one-5-door/,Mini,Nhap khau,Hatchback,5 cho,1499 cc,,So san,100 kW @ 4400 rpm,FWD,Dau,43 Lit
+Vinfast Lux SA2.0 Cao cap,https://xebiz.vn/gia-xe/vinfast-lux-sa2-0-cao-cap/,VinFast,Lap rap,SUV,7 cho,1998 cc,,Tu dong,170 kW @ 5000 rpm,RWD,Xang,85 Lit
+Subaru XV 2.0i-S,https://xebiz.vn/gia-xe/subaru-xv-2-0i-s/,Subaru,Nhap khau,Crossover,5 cho,1995 cc,,Vo cap CVT,113 kW @ 6000 rpm,AWD,Xang,62 Lit
+Audi Q2 35 TFSI COD,https://xebiz.vn/gia-xe/audi-q2-35-tfsi-cod/,Audi,Nhap khau,SUV,5 cho,1395 cc,,Tu dong,111.9 kW @ 6000 rpm,FWD,Xang,50 Lit
+Mercedes-Benz GLA 200 1.6 I4,https://xebiz.vn/gia-xe/mercedes-benz-gla-200-1-6-i4/,Mercedes,Nhap khau,SUV,5 cho,1595 cc,,Tu dong,115 kW @ 5300 rpm,FWD,Xang,50 Lit
+Subaru Legacy 3.6R Limited,https://xebiz.vn/gia-xe/subaru-legacy-3-6r-limited/,Subaru,Nhap khau,Sedan,5 cho,3630 cc,,Vo cap CVT,191 kW @ 6000 rpm,AWD,Xang,70 Lit
+Audi A4 2.0 TFSI S tronic,https://xebiz.vn/gia-xe/audi-a4-2-0-tfsi-s-tronic/,Audi,Nhap khau,Sedan,5 cho,1984 cc,,Tu dong,140 kW @ 4200 rpm,FWD,Xang,57 Lit
+Mercedes-Benz A250 Sport,https://xebiz.vn/gia-xe/mercedes-benz-a250-sport/,Mercedes,Nhap khau,Hatchback,5 cho,1991 cc,,Tu dong,,FWD,Xang,50 Lit
+Volkswagen Tiguan Allspace,https://xebiz.vn/gia-xe/volkswagen-tiguan-allspace/,Volkswagen,Nhap khau,SUV,7 cho,1984 cc,,Tu dong,137 kW @ 4400 rpm,FWD,Xang,57 Lit
+Mercedes-Benz C200 Exclusive,https://xebiz.vn/gia-xe/mercedes-benz-c200-exclusive/,Mercedes,Lap rap,Sedan,5 cho,1991 cc,,Tu dong,135 kW @ 6100 rpm,RWD,Xang,66 Lit
+Mercedes-Benz GLC 200 2.0 I4,https://xebiz.vn/gia-xe/mercedes-benz-glc-200-2-0-i4/,Mercedes,Lap rap,SUV,5 cho,1991 cc,,Tu dong,190 kW @ 5800 rpm,RWD,Xang,65 Lit
+Volvo XC40 R-Design,https://xebiz.vn/gia-xe/volvo-xc40-r-design/,Volvo,Nhap khau,SUV,5 cho,1969 cc,,Tu dong,185 kW @ 5500 rpm,AWD,Xang,53 Lit
+Volkswagen Tiguan Topline,https://xebiz.vn/gia-xe/volkswagen-tiguan-topline/,Volkswagen,Nhap khau,SUV,7 cho,1984 cc,,Tu dong,137 kW @ 4400 rpm,AWD,Xang,60 Lit
+Honda Civic Type R,https://xebiz.vn/gia-xe/honda-civic-type-r/,Honda,Nhap khau,Sedan,5 cho,1996 cc,,So san,228 kW @ 6500 rpm,FWD,Dau,46 Lit
+Volkswagen Sharan 2.0 TSI,https://xebiz.vn/gia-xe/volkswagen-sharan-2-0-tsi/,Volkswagen,Nhap khau,Minivan,7 cho,1995 cc,,Tu dong,125 kW @ 4500 rpm,AWD,Xang,54 Lit
+Mercedes-Benz Vito Tourer 121,https://xebiz.vn/gia-xe/mercedes-benz-vito-tourer-121/,Mercedes,Nhap khau,Minivan,8 cho,1991 cc,,Tu dong,,RWD,Xang,66 Lit
+Volkswagen Tiguan Allspace Luxury,https://xebiz.vn/gia-xe/volkswagen-tiguan-allspace-luxury/,Volkswagen,Nhap khau,SUV,7 cho,1984 cc,,Tu dong,137 kW @ 4400 rpm,FWD,Xang,57 Lit
+Mercedes-Benz GLA 250 4Matic,https://xebiz.vn/gia-xe/mercedes-benz-gla-250-4matic/,Mercedes,Nhap khau,SUV,5 cho,1991 cc,,Tu dong,155 kW @ 5500 rpm,FWD,Xang,56 Lit
+BMW X1 sDrive18i xLine,https://xebiz.vn/gia-xe/bmw-x1-sdrive18i-xline/,BMW,Nhap khau,SUV,5 cho,1499 cc,,Tu dong,100 kW @ 4400 rpm,FWD,Xang,51 Lit
+Subaru Outback 2.5i-S EyeSight,https://xebiz.vn/gia-xe/subaru-outback-2-5i-s-eyesight/,Subaru,Nhap khau,SUV,5 cho,2498 cc,,Vo cap CVT,136 kW @ 5800 rpm,AWD,Xang,70 Lit
+Mercedes-Benz CLA 250 2.0 I4,https://xebiz.vn/gia-xe/mercedes-benz-cla-250-2-0-i4/,Mercedes,Nhap khau,Coupe,5 cho,1991 cc,,Tu dong,165 kW @ 5800 rpm,FWD,Xang,51 Lit
+Volkswagen Tiguan Luxury S,https://xebiz.vn/gia-xe/volkswagen-tiguan-luxury-s/,Volkswagen,Nhap khau,SUV,7 cho,1984 cc,,Tu dong,137 kW @ 4400 rpm,FWD,Xang,57 Lit
+MINI Cooper S 3 Door,https://xebiz.vn/gia-xe/mini-cooper-s-3-door/,Mini,Nhap khau,Hatchback,4 cho,1998 cc,,So san,100 kW @ 4400 rpm,FWD,Xang,43 Lit
+BMW 320i Sport Line,https://xebiz.vn/gia-xe/bmw-320i-sport-line/,BMW,Nhap khau,Sedan,5 cho,1998 cc,,Tu dong,184 kW @ 5000 rpm,RWD,Xang,59 Lit
+Subaru WRX Sti 2.5 Limited,https://xebiz.vn/gia-xe/subaru-wrx-sti-2-5-limited/,Subaru,Nhap khau,Sedan,5 cho,2457 cc,,So san,231 kW @ 6000 rpm,AWD,Xang,60 Lit
+Audi Q3 35 TFSI,https://xebiz.vn/gia-xe/audi-q3-35-tfsi/,Audi,Nhap khau,SUV,5 cho,1395 cc,,Tu dong,111.9 kW @ 6000 rpm,FWD,Xang,60 Lit
+MINI Cooper S 5 DOOR,https://xebiz.vn/gia-xe/mini-cooper-s-5-door/,Mini,Nhap khau,Hatchback,5 cho,1998 cc,,So san,141 kW @ 4700 rpm,FWD,Dau,43 Lit
+Mercedes-Benz CLA 250 4Matic,https://xebiz.vn/gia-xe/mercedes-benz-cla-250-4matic/,Mercedes,Nhap khau,Coupe,5 cho,1991 cc,,Tu dong,165 kW @ 5800 rpm,AWD,Xang,51 Lit
+Mercedes-Benz GLC 250 4Matic,https://xebiz.vn/gia-xe/mercedes-benz-glc-250-4matic/,Mercedes,Nhap khau,SUV,5 cho,1991 cc,,Tu dong,155 kW @ 5500 rpm,4WD,Xang,65 Lit
+Honda Odyssey E,https://xebiz.vn/gia-xe/honda-odyssey-e/,Honda,Nhap khau,Minivan,7 cho,2356 cc,,Vo cap CVT,,FWD,Xang,55 Lit
+BMW X2 sDrive18i,https://xebiz.vn/gia-xe/bmw-x2-sdrive18i/,BMW,Nhap khau,SUV,5 cho,1499 cc,,Tu dong,103 kW @ 6500 rpm,FWD,Xang,60 Lit
+Mercedes-Benz E200 2.0 I4,https://xebiz.vn/gia-xe/mercedes-benz-e200-2-0-i4/,Mercedes,Lap rap,Sedan,5 cho,1991 cc,,Tu dong,145 kW @ 6100 rpm,RWD,Xang,59 Lit
+Mercedes-Benz GLC 200 4Matic,https://xebiz.vn/gia-xe/mercedes-benz-glc-200-4matic/,Mercedes,Lap rap,SUV,5 cho,1991 cc,,Tu dong,190 kW @ 5800 rpm,RWD,Xang,65 Lit
+Mercedes-Benz E180 1.5 I4,https://xebiz.vn/gia-xe/mercedes-benz-e180-1-5-i4/,Mercedes,Lap rap,Sedan,5 cho,1495 cc,,Tu dong,115 kW @ 6100 rpm,RWD,Xang,66 Lit
+Audi TT 2.0 TFSI quattro,https://xebiz.vn/gia-xe/audi-tt-2-0-tfsi-quattro/,Audi,Nhap khau,Coupe,4 cho,1984 cc,,Tu dong,170 kW @ 5000 rpm,AWD,Xang,54 Lit
+Mitsubishi Pajero 3.0 V6,https://xebiz.vn/gia-xe/mitsubishi-pajero-3-0-v6/,Mitsubishi,Nhap khau,SUV,7 cho,2972 cc,,Tu dong,,4WD,Xang,88 Lit
+BMW X2 sDrive20i,https://xebiz.vn/gia-xe/bmw-x2-sdrive20i/,BMW,Nhap khau,SUV,5 cho,1998 cc,,Tu dong,141 kW @ 5000 rpm,FWD,Xang,60 Lit
+Volvo S90 Inscription,https://xebiz.vn/gia-xe/volvo-s90-inscription/,Volvo,Nhap khau,Sedan,5 cho,1969 cc,,Tu dong,236 kW @ 5700 rpm,AWD,Xang,60 Lit
+Volvo XC60 Inscription,https://xebiz.vn/gia-xe/volvo-xc60-inscription/,Volvo,Nhap khau,SUV,5 cho,1969 cc,,Tu dong,236 kW @ 5700 rpm,AWD,Xang,71 Lit
+BMW 320i Sport Line Plus,https://xebiz.vn/gia-xe/bmw-320i-sport-line-plus/,BMW,Nhap khau,Sedan,5 cho,1998 cc,,Tu dong,200 kW @ 5000 rpm,RWD,Xang,59 Lit
+BMW 330i Sport Line,https://xebiz.vn/gia-xe/bmw-330i-sport-line/,BMW,Nhap khau,Sedan,5 cho,1998 cc,,Tu dong,190 kW @ 5000 rpm,AWD,Xang,59 Lit
+MINI Cooper S Convertible,https://xebiz.vn/gia-xe/mini-cooper-s-convertible/,Mini,Nhap khau,Hatchback,4 cho,1998 cc,,So san,141 kW @ 4700 rpm,FWD,Dau,43 Lit
+MINI Convertible S,https://xebiz.vn/gia-xe/mini-convertible-s/,Mini,Nhap khau,Convertible,4 cho,1998 cc,,Tu dong,141 kW @ 5000 rpm,FWD,Dau,43 Lit
+BMW 428i Gran Coupe,https://xebiz.vn/gia-xe/bmw-428i-gran-coupe/,BMW,Nhap khau,Coupe,5 cho,1998 cc,,Tu dong,185 kW @ 5200 rpm,RWD,Xang,59 Lit
+BMW 430i M Sport,https://xebiz.vn/gia-xe/bmw-430i-m-sport/,BMW,Nhap khau,Coupe,4 cho,1998 cc,,Tu dong,185 kW @ 5200 rpm,AWD,Xang,59 Lit
+Mercedes-AMG A35 4MATIC,https://xebiz.vn/gia-xe/mercedes-amg-a35-4matic/,Mercedes,Nhap khau,Sedan,5 cho,1991 cc,,Tu dong,225 kW @ 5800 rpm,AWD,Xang,51 Lit
+Mercedes-AMG A45 4MATIC,https://xebiz.vn/gia-xe/mercedes-amg-a45-4matic/,Mercedes,Nhap khau,Hatchback,5 cho,1991 cc,,Tu dong,285 kW @ 6000 rpm,AWD,Xang,50 Lit
+Peugeot Traveller 2.0 Premium,https://xebiz.vn/gia-xe/peugeot-traveller-2-0-premium/,Peugeot,Lap rap,Van,6 cho,2000 cc,,Tu dong,,FWD,Dau,70 Lit
+BMW 420i Gran Coupe,https://xebiz.vn/gia-xe/bmw-420i-gran-coupe/,BMW,Nhap khau,Coupe,5 cho,1998 cc,,Tu dong,185 kW @ 5200 rpm,AWD,Xang,59 Lit
+Ford Explorer Limited,https://xebiz.vn/gia-xe/ford-explorer-limited/,Ford,Nhap khau,SUV,7 cho,2261 cc,,Tu dong,200.8 kW @ 5500 rpm,4WD,Xang,70 Lit
+Mercedes-Benz GLC 300 4MATIC,https://xebiz.vn/gia-xe/mercedes-benz-glc-300-4matic/,Mercedes,Lap rap,SUV,5 cho,1991 cc,,Tu dong,190 kW @ 5800 rpm,AWD,Xang,65 Lit
+Mercedes-Benz E200 Exclusive,https://xebiz.vn/gia-xe/mercedes-benz-e200-exclusive/,Mercedes,Lap rap,Sedan,5 cho,1991 cc,,Tu dong,146.9 kW @ 6100 rpm,AWD,Xang,66 Lit
+Jaguar XE Portfolio,https://xebiz.vn/gia-xe/jaguar-xe-portfolio/,Jaguar,Nhap khau,Sedan,5 cho,1997 cc,,Tu dong,221 kW @ 5500 rpm,AWD,Xang,62 Lit
+MINI Cooper John Cooper Works,https://xebiz.vn/gia-xe/mini-cooper-john-cooper-works/,Mini,Nhap khau,Hatchback,4 cho,1998 cc,,So san,170 kW @ 5200 rpm,FWD,Xang,43 Lit
+Mercedes-AMG CLA 45 4Matic,https://xebiz.vn/gia-xe/mercedes-amg-cla-45-4matic/,Mercedes,Nhap khau,Coupe,5 cho,1991 cc,,Tu dong,280 kW @ 6000 rpm,AWD,Xang,56 Lit
+Toyota Land Cruiser Prado 2.7 AT VX,https://xebiz.vn/gia-xe/toyota-land-cruiser-prado-2-7-at-vx/,Toyota,Nhap khau,SUV,7 cho,2694 cc,,Tu dong,12216 kW @ 5200 rpm,AWD,Xang,87 Lit
+Volvo S90 Momentum,https://xebiz.vn/gia-xe/volvo-s90-momentum/,Volvo,Nhap khau,Sedan,5 cho,1969 cc,,Tu dong,236 kW @ 5700 rpm,AWD,Xang,60 Lit
+Audi Q5 45 TFSI quattro,https://xebiz.vn/gia-xe/audi-q5-45-tfsi-quattro/,Audi,Nhap khau,SUV,5 cho,1984 cc,,Tu dong,185 kW @ 5000 rpm,AWD,Xang,70 Lit
+BMW 520i 2.0 I4,https://xebiz.vn/gia-xe/bmw-520i-2-0-i4/,BMW,Nhap khau,Sedan,5 cho,1998 cc,,Tu dong,185 kW @ 5200 rpm,RWD,Xang,68 Lit
+MINI Cooper John Cooper Works Convertible,https://xebiz.vn/gia-xe/mini-cooper-john-cooper-works-convertible/,Mini,Nhap khau,Hatchback,4 cho,1598 cc,,So san,155 kW @ 6000 rpm,FWD,Dau,50 Lit
+Lexus ES250 2.5 I4,https://xebiz.vn/gia-xe/lexus-es250-2-5-i4/,Lexus,Nhap khau,Sedan,5 cho,2487 cc,,Tu dong,152.1 kW @ 6600 rpm,FWD,Xang,60 Lit
+BMW 320i M Sport,https://xebiz.vn/gia-xe/bmw-320i-m-sport/,BMW,Nhap khau,Sedan,5 cho,1998 cc,,Tu dong,200 kW @ 5000 rpm,RWD,Xang,59 Lit
+MINI Convertible John Cooper Works,https://xebiz.vn/gia-xe/mini-convertible-john-cooper-works/,Mini,Nhap khau,Convertible,4 cho,1998 cc,,Tu dong,170 kW @ 5200 rpm,FWD,Dau,43 Lit
+Audi A6 45 TFSI,https://xebiz.vn/gia-xe/audi-a6-45-tfsi/,Audi,Nhap khau,Sedan,5 cho,1984 cc,,Tu dong,185 kW @ 4300 rpm,AWD,Xang,73 Lit
+Audi A7 45 TFSI,https://xebiz.vn/gia-xe/audi-a7-45-tfsi/,Audi,Nhap khau,Hatchback,5 cho,1984 cc,,Tu dong,184 kW @ 5000 rpm,AWD,Xang,73 Lit
+BMW X3 2.0 20I AT 4WD,https://xebiz.vn/gia-xe/bmw-x3-2-0-20i-at-4wd/,BMW,Nhap khau,SUV,5 cho,1998 cc,,Tu dong,135 kW @ 5000 rpm,4WD,Xang,65 Lit
+Audi A5 Sportback 2.0 TFSI,https://xebiz.vn/gia-xe/audi-a5-sportback-2-0-tfsi/,Audi,Nhap khau,Coupe,5 cho,1984 cc,,Tu dong,185 kW @ 5000 rpm,AWD,Xang,57 Lit
+Lexus NX300 2.0 AT I4,https://xebiz.vn/gia-xe/lexus-nx300-2-0-at-i4/,Lexus,Nhap khau,Crossover,5 cho,1988 cc,,Tu dong,175 kW @ 4800 rpm,FWD,Xang,60 Lit
+Mercedes-Benz V250 Luxury,https://xebiz.vn/gia-xe/mercedes-benz-v250-luxury/,Mercedes,Nhap khau,Minivan,7 cho,1991 cc,,Tu dong,155 kW @ 5500 rpm,RWD,Xang,70 Lit
+Land Rover Discovery Sport 2.0L I4 Turbocharged SE,https://xebiz.vn/gia-xe/land-rover-discovery-sport-2-0l-i4-turbocharged-se/,Land Rover,Nhap khau,SUV,7 cho,1997 cc,,Tu dong,183 kW @ 5500 rpm,AWD,Xang,67 Lit
+MINI Clubman John Cooper Works ALL4,https://xebiz.vn/gia-xe/mini-clubman-john-cooper-works-all4/,Mini,Nhap khau,Wagon,5 cho,1998 cc,,Tu dong,224 kW @ 5000 rpm,AWD,Xang,50 Lit
+Toyota Sienna 3.5 AT Limited,https://xebiz.vn/gia-xe/toyota-sienna-3-5-at-limited/,Toyota,Nhap khau,Minivan,8 cho,3456 cc,,Tu dong,221 kW @ 6600 rpm,AWD,Xang,75 Lit
+MINI Countryman John Cooper Works ALL4,https://xebiz.vn/gia-xe/mini-countryman-john-cooper-works-all4/,Mini,Nhap khau,Wagon,5 cho,1998 cc,,Tu dong,224 kW @ 5200 rpm,AWD,Xang,60 Lit
+Mercedes-Benz C300 Coupe,https://xebiz.vn/gia-xe/mercedes-benz-c300-coupe/,Mercedes,Nhap khau,Sedan,4 cho,1991 cc,,Tu dong,190 kW @ 5800 rpm,RWD,Xang,65 Lit
+Jaguar E-Pace 2.0L I4 Tubrocharged R-Dynamic,https://xebiz.vn/gia-xe/jaguar-e-pace-2-0l-i4-tubrocharged-r-dynamic/,Jaguar,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,183 kW @ 5500 rpm,AWD,Xang,68 Lit
+Toyota Kluger Grande,https://xebiz.vn/gia-xe/toyota-kluger-grande/,Toyota,Nhap khau,SUV,7 cho,3456 cc,,Tu dong,,FWD,Xang,72 Lit
+Kia Quoris 3.8 GAT,https://xebiz.vn/gia-xe/kia-quoris-3-8-gat/,Kia,Nhap khau,Sedan,5 cho,3778 cc,,Tu dong,213.3 kW @ 6200 rpm,RWD,Xang,83 Lit
+BMW X3 2.0 30I AT 4WD,https://xebiz.vn/gia-xe/bmw-x3-2-0-30i-at-4wd/,BMW,Nhap khau,SUV,5 cho,1998 cc,,Tu dong,185 kW @ 5200 rpm,4WD,Xang,65 Lit
+Jaguar E-Pace 2.0L I4 Tubrocharged R-Dynamic S,https://xebiz.vn/gia-xe/jaguar-e-pace-2-0l-i4-tubrocharged-r-dynamic-s/,Jaguar,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,221 kW @ 5500 rpm,AWD,Xang,68 Lit
+Jaguar XF 2.0L I4 Tubrocharged Prestige,https://xebiz.vn/gia-xe/jaguar-xf-2-0l-i4-tubrocharged-prestige/,Jaguar,Nhap khau,Sedan,5 cho,1997 cc,,Tu dong,184 kW @ 5500 rpm,RWD,Xang,73 Lit
+Mercedes-Benz E300 AMG,https://xebiz.vn/gia-xe/mercedes-benz-e300-amg/,Mercedes,Lap rap,Sedan,5 cho,1991 cc,,Tu dong,180 kW @ 5550 rpm,RWD,Xang,65 Lit
+BMW 420i Mui tran M Sport,https://xebiz.vn/gia-xe/bmw-420i-mui-tran-m-sport/,BMW,Nhap khau,Convertible,4 cho,1998 cc,,Tu dong,185 kW @ 5200 rpm,RWD,Xang,59 Lit
+BMW X3 2.0 30I M Sport AT 4WD,https://xebiz.vn/gia-xe/bmw-x3-2-0-30i-m-sport-at-4wd/,BMW,Nhap khau,SUV,5 cho,1998 cc,,Tu dong,185 kW @ 5200 rpm,4WD,Xang,65 Lit
+BMW 428i Mui tran,https://xebiz.vn/gia-xe/bmw-428i-mui-tran/,BMW,Nhap khau,Coupe,4 cho,1998 cc,,Tu dong,185 kW @ 5200 rpm,RWD,Xang,59 Lit
+Mercedes-Benz E350 4Matic,https://xebiz.vn/gia-xe/mercedes-benz-e350-4matic/,Mercedes,Nhap khau,Sedan,5 cho,1991 cc,,Tu dong,190 kW @ 5800 rpm,AWD,Xang,65 Lit
+Toyota Avalon Limited,https://xebiz.vn/gia-xe/toyota-avalon-limited/,Toyota,Nhap khau,Sedan,5 cho,3456 cc,,Tu dong,224 kW @ 6600 rpm,FWD,Xang,59 Lit
+Mercedes-Benz GLC 300 4MATIC Coupe,https://xebiz.vn/gia-xe/mercedes-benz-glc-300-4matic-coupe/,Mercedes,Nhap khau,SUV,5 cho,1991 cc,,Tu dong,190 kW @ 5800 rpm,AWD,Xang,65 Lit
+Jaguar E-Pace 2.0L I4 Tubrocharged S,https://xebiz.vn/gia-xe/jaguar-e-pace-2-0l-i4-tubrocharged-s/,Jaguar,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,183 kW @ 5500 rpm,AWD,Xang,68 Lit
+BMW X4 xDrive20i,https://xebiz.vn/gia-xe/bmw-x4-xdrive20i/,BMW,Nhap khau,SUV,7 cho,1998 cc,,Tu dong,185 kW @ 5200 rpm,AWD,Xang,65 Lit
+Audi A6 55 TFSI quattro,https://xebiz.vn/gia-xe/audi-a6-55-tfsi-quattro/,Audi,Nhap khau,Sedan,5 cho,2995 cc,,Tu dong,250 kW @ 5000 rpm,AWD,Xang,73 Lit
+Lexus ES300h 2.5 I4,https://xebiz.vn/gia-xe/lexus-es300h-2-5-i4/,Lexus,Nhap khau,Sedan,5 cho,2487 cc,,Vo cap CVT,160 kW @ 5700 rpm,FWD,Xang,50 Lit
+BMW 530i Luxury Line,https://xebiz.vn/gia-xe/bmw-530i-luxury-line/,BMW,Nhap khau,Sedan,5 cho,1998 cc,,Tu dong,185 kW @ 5200 rpm,AWD,Xang,68 Lit
+Toyota Granvia 2.8L 6 Cho,https://xebiz.vn/gia-xe/toyota-granvia-2-8l-6-cho/,Toyota,Nhap khau,Minivan,6 cho,2755 cc,,Tu dong,130 kW @ 3400 rpm,RWD,Dau,70 Lit
+Volvo V90 Cross Country,https://xebiz.vn/gia-xe/volvo-v90-cross-country/,Volvo,Nhap khau,Wagon,5 cho,1969 cc,,Tu dong,236 kW @ 5700 rpm,AWD,Xang,60 Lit
+Land Rover Discovery Sport 2.0L I4 Turbocharged HSE,https://xebiz.vn/gia-xe/land-rover-discovery-sport-2-0l-i4-turbocharged-hse/,Land Rover,Nhap khau,SUV,7 cho,1997 cc,,Tu dong,177 kW @ 5500 rpm,AWD,Xang,67 Lit
+Jaguar F-Pace 2.0L I4 Tubrocharged Pure,https://xebiz.vn/gia-xe/jaguar-f-pace-2-0l-i4-tubrocharged-pure/,Jaguar,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,221 kW @ 5500 rpm,AWD,Xang,82 Lit
+Volkswagen Touareg Elegance,https://xebiz.vn/gia-xe/volkswagen-touareg-elegance/,Volkswagen,Nhap khau,SUV,7 cho,1984 cc,,Tu dong,175 kW @ 4500 rpm,FWD,Xang,70 Lit
+Infiniti QX60 3.5 AWD,https://xebiz.vn/gia-xe/infiniti-qx60-3-5-awd/,Infiniti,Nhap khau,SUV,7 cho,3498 cc,,Vo cap CVT,220 kW @ 6400 rpm,AWD,Xang,73 Lit
+Porsche Macan 2.0,https://xebiz.vn/gia-xe/porsche-macan-2-0/,Porsche,Nhap khau,SUV,5 cho,1984 cc,,Tu dong,185 kW @ 5000 rpm,AWD,Xang,75 Lit
+Mercedes-Benz V250 AMG,https://xebiz.vn/gia-xe/mercedes-benz-v250-amg/,Mercedes,Nhap khau,Minivan,7 cho,1991 cc,,Tu dong,155 kW @ 5500 rpm,RWD,Xang,70 Lit
+BMW M4 3.0 I6,https://xebiz.vn/gia-xe/bmw-m4-3-0-i6/,BMW,Nhap khau,Coupe,4 cho,2979 cc,,So san,317 kW @ 5500 rpm,RWD,Xang,59 Lit
+Lexus RX300 2.0 EFI,https://xebiz.vn/gia-xe/lexus-rx300-2-0-efi/,Lexus,Nhap khau,SUV,5 cho,1998 cc,,Tu dong,179.7 kW @ 5600 rpm,4WD,Dau,72 Lit
+Land Rover Range Rover Evoque 2.0L I4 Turbocharged SE Plus,https://xebiz.vn/gia-xe/land-rover-range-rover-evoque-2-0l-i4-turbocharged-se-plus/,Land Rover,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,177 kW @ 5500 rpm,AWD,Xang,67 Lit
+Lexus RC300 2.0 I4,https://xebiz.vn/gia-xe/lexus-rc300-2-0-i4/,Lexus,Nhap khau,Coupe,4 cho,1998 cc,,Tu dong,180 kW @ 5800 rpm,RWD,Xang,65 Lit
+Jaguar XF 2.0L I4 Tubrocharged Premium,https://xebiz.vn/gia-xe/jaguar-xf-2-0l-i4-tubrocharged-premium/,Jaguar,Nhap khau,Sedan,5 cho,1997 cc,,Tu dong,184 kW @ 5500 rpm,RWD,Xang,73 Lit
+Jaguar F-Pace 2.0L I4 Tubrocharged Prestige,https://xebiz.vn/gia-xe/jaguar-f-pace-2-0l-i4-tubrocharged-prestige/,Jaguar,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,184 kW @ 5500 rpm,AWD,Xang,82 Lit
+Infiniti QX60 3.5 AWD Premium,https://xebiz.vn/gia-xe/infiniti-qx60-3-5-awd-premium/,Infiniti,Nhap khau,SUV,7 cho,3498 cc,,Vo cap CVT,220 kW @ 6400 rpm,AWD,Xang,73 Lit
+Volvo XC90 2.0 Momentum AT 4WD,https://xebiz.vn/gia-xe/volvo-xc90-2-0-momentum-at-4wd/,Volvo,Nhap khau,SUV,7 cho,1969 cc,,Tu dong,236 kW @ 5700 rpm,4WD,Xang,71 Lit
+Audi Q7 2.0 TFSI Quattro,https://xebiz.vn/gia-xe/audi-q7-2-0-tfsi-quattro/,Audi,Nhap khau,SUV,7 cho,1984 cc,,Tu dong,185 kW @ 5000 rpm,AWD,Xang,75 Lit
+Volkswagen Touareg Premium,https://xebiz.vn/gia-xe/volkswagen-touareg-premium/,Volkswagen,Nhap khau,SUV,7 cho,1984 cc,,Tu dong,175 kW @ 4500 rpm,FWD,Xang,70 Lit
+Land Rover Discovery Sport 2.0L I4 Turbocharged HSE Luxury,https://xebiz.vn/gia-xe/land-rover-discovery-sport-2-0l-i4-turbocharged-hse-luxury/,Land Rover,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,177 kW @ 5500 rpm,AWD,Xang,67 Lit
+Jaguar F-Pace 30t Prestige,https://xebiz.vn/gia-xe/jaguar-f-pace-30t-prestige/,Jaguar,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,221 kW @ 5500 rpm,AWD,Xang,82 Lit
+Mercedes-AMG GLC 43 4Matic,https://xebiz.vn/gia-xe/mercedes-amg-glc-43-4matic/,Mercedes,Nhap khau,SUV,5 cho,2996 cc,,Tu dong,287 kW @ 6100 rpm,AWD,Xang,65 Lit
+Porsche Macan S,https://xebiz.vn/gia-xe/porsche-macan-s/,Porsche,Nhap khau,SUV,5 cho,2995 cc,,Tu dong,260 kW @ 5400 rpm,AWD,Xang,75 Lit
+Porsche 718 Cayman 2.0,https://xebiz.vn/gia-xe/porsche-718-cayman-2-0/,Porsche,Nhap khau,Coupe,2 cho,1988 cc,,So san,224 kW @ 6500 rpm,RWD,Xang,53 Lit
+Mercedes-AMG SLC43 3.0 V6,https://xebiz.vn/gia-xe/mercedes-amg-slc43-3-0-v6/,Mercedes,Nhap khau,Convertible,2 cho,2996 cc,,Tu dong,287 kW @ 6100 rpm,RWD,Xang,60 Lit
+Porsche 718 Boxster 2.0,https://xebiz.vn/gia-xe/porsche-718-boxster-2-0/,Porsche,Nhap khau,Convertible,2 cho,1988 cc,,So san,224 kW @ 6500 rpm,RWD,Xang,53 Lit
+BMW M3 3.0 I6,https://xebiz.vn/gia-xe/bmw-m3-3-0-i6/,BMW,Nhap khau,Sedan,5 cho,2979 cc,,So san,317 kW @ 5500 rpm,RWD,Xang,59 Lit
+Land Rover Range Rover Evoque 2.0L I4 Turbocharged R-Dynamic SE,https://xebiz.vn/gia-xe/land-rover-range-rover-evoque-2-0l-i4-turbocharged-r-dynamic-se/,,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,183 kW @ 5500 rpm,AWD,Xang,67 Lit
+Audi A7 55 TFSI quattro,https://xebiz.vn/gia-xe/audi-a7-55-tfsi-quattro/,Audi,Nhap khau,Hatchback,5 cho,2995 cc,,Tu dong,250 kW @ 5000 rpm,AWD,Xang,73 Lit
+Toyota GR Supra 3.0,https://xebiz.vn/gia-xe/toyota-gr-supra-3-0/,Toyota,Nhap khau,Coupe,2 cho,2998 cc,,Tu dong,253.5 kW @ 5000 rpm,RWD,Xang,52 Lit
+Volkswagen Touareg Luxury,https://xebiz.vn/gia-xe/volkswagen-touareg-luxury/,Volkswagen,Nhap khau,SUV,7 cho,1984 cc,,Tu dong,175 kW @ 4500 rpm,FWD,Xang,70 Lit
+Audi Q7 3.0 TFSI Quattro,https://xebiz.vn/gia-xe/audi-q7-3-0-tfsi-quattro/,Audi,Nhap khau,SUV,7 cho,2995 cc,,Tu dong,250 kW @ 5000 rpm,AWD,Xang,85 Lit
+Jaguar F-Pace 2.0L I4 Tubrocharged R-Sport,https://xebiz.vn/gia-xe/jaguar-f-pace-2-0l-i4-tubrocharged-r-sport/,Jaguar,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,184 kW @ 5500 rpm,AWD,Xang,82 Lit
+Mercedes-Benz GLE 400 4Matic Exclusive,https://xebiz.vn/gia-xe/mercedes-benz-gle-400-4matic-exclusive/,Mercedes,Nhap khau,SUV,5 cho,2996 cc,,Tu dong,245 kW @ 5250 rpm,AWD,Xang,93 Lit
+Infiniti QX70 3.7 V6,https://xebiz.vn/gia-xe/infiniti-qx70-3-7-v6/,Infiniti,Nhap khau,SUV,7 cho,3696 cc,,Tu dong,242 kW @ 7000 rpm,AWD,Xang,90 Lit
+BMW X6 xDrive35i,https://xebiz.vn/gia-xe/bmw-x6-xdrive35i/,BMW,Nhap khau,SUV,5 cho,2998 cc,,Tu dong,250 kW @ 5500 rpm,4WD,Xang,82 Lit
+Lexus RX350L 3.5 V6,https://xebiz.vn/gia-xe/lexus-rx350l-3-5-v6/,Lexus,Nhap khau,SUV,7 cho,3457 cc,,Tu dong,220 kW @ 6300 rpm,AWD,Xang,72 Lit
+Volvo XC90 2.0 Inscription AT 4WD,https://xebiz.vn/gia-xe/volvo-xc90-2-0-inscription-at-4wd/,Volvo,Nhap khau,SUV,7 cho,1969 cc,,Tu dong,236 kW @ 5700 rpm,4WD,Xang,71 Lit
+Land Rover Range Rover Evoque 2.0L I4 Turbocharged First Edition,https://xebiz.vn/gia-xe/land-rover-range-rover-evoque-2-0l-i4-turbocharged-first-edition/,Land Rover,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,183 kW @ 5500 rpm,AWD,Xang,67 Lit
+Jaguar F-Pace 30t R-Sport,https://xebiz.vn/gia-xe/jaguar-f-pace-30t-r-sport/,Jaguar,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,221 kW @ 5500 rpm,AWD,Xang,82 Lit
+Toyota Land Cruiser VX V8,https://xebiz.vn/gia-xe/toyota-land-cruiser-vx-v8/,Toyota,Nhap khau,SUV,7 cho,4608 cc,,Tu dong,22730 kW @ 5500 rpm,AWD,Xang,93 Lit
+Toyota Alphard 3.5 AT Luxury,https://xebiz.vn/gia-xe/toyota-alphard-3-5-at-luxury/,Toyota,Lap rap,Minivan,7 cho,3456 cc,,Tu dong,29622 kW @ 6600 rpm,FWD,Xang,75 Lit
+Hyundai Palisade Limited,https://xebiz.vn/gia-xe/hyundai-palisade-limited/,Hyundai,Nhap khau,SUV,7 cho,3778 cc,,Tu dong,217 kW @ 6000 rpm,AWD,Xang,71 Lit
+Land Rover Range Rover Velar S,https://xebiz.vn/gia-xe/land-rover-range-rover-velar-s/,Land Rover,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,184 kW @ 5500 rpm,AWD,Xang,62 Lit
+Toyota Tundra Limited,https://xebiz.vn/gia-xe/toyota-tundra-limited/,Toyota,Nhap khau,Xe ban tai,6 cho,5663 cc,,Tu dong,284 kW @ 5600 rpm,4WD,Xang,143 Lit
+BMW X5 3.0 40I,https://xebiz.vn/gia-xe/bmw-x5-3-0-40i/,BMW,Nhap khau,SUV,7 cho,2998 cc,,Tu dong,250 kW @ 5500 rpm,AWD,Xang,82 Lit
+Lexus RX350 3.5 V6,https://xebiz.vn/gia-xe/lexus-rx350-3-5-v6/,Lexus,Nhap khau,SUV,5 cho,3457 cc,,Tu dong,220 kW @ 6300 rpm,FWD,Xang,72 Lit
+Porsche Macan GTS,https://xebiz.vn/gia-xe/porsche-macan-gts/,Porsche,Nhap khau,SUV,5 cho,2894 cc,,Tu dong,280 kW @ 5200 rpm,AWD,Xang,75 Lit
+Mercedes-Benz GLE 400 4Matic Coupe,https://xebiz.vn/gia-xe/mercedes-benz-gle-400-4matic-coupe/,Mercedes,Nhap khau,SUV,5 cho,2996 cc,,Tu dong,245 kW @ 5250 rpm,AWD,Xang,93 Lit
+Mercedes-AMG C43 3.0 V6,https://xebiz.vn/gia-xe/mercedes-amg-c43-3-0-v6/,Mercedes,Nhap khau,Coupe,5 cho,2996 cc,,Tu dong,270 kW @ 5550 rpm,AWD,Xang,65 Lit
+Mercedes-Benz GLS 350d 3.0 V6,https://xebiz.vn/gia-xe/mercedes-benz-gls-350d-3-0-v6/,Mercedes,Nhap khau,SUV,7 cho,2999 cc,,Tu dong,270 kW @ 5500 rpm,AWD,Dau,90 Lit
+Mercedes-Benz S450 L 3.0 V6,https://xebiz.vn/gia-xe/mercedes-benz-s450-l-3-0-v6/,Mercedes,Lap rap,Sedan,5 cho,2996 cc,,Tu dong,270 kW @ 5500 rpm,RWD,Xang,79 Lit
+BMW X3 M 3.0 I6,https://xebiz.vn/gia-xe/bmw-x3-m-3-0-i6/,BMW,Nhap khau,Crossover,5 cho,2993 cc,,Tu dong,353 kW @ 5600 rpm,AWD,Xang,65 Lit
+Mercedes-Benz GLE 450 4Matic,https://xebiz.vn/gia-xe/mercedes-benz-gle-450-4matic/,Mercedes,Nhap khau,SUV,7 cho,2999 cc,,Tu dong,270 kW @ 5500 rpm,AWD,Xang,85 Lit
+BMW 730Li 2.0 730Li M Sport,https://xebiz.vn/gia-xe/bmw-730li-2-0-730li-m-sport/,BMW,Nhap khau,Sedan,5 cho,1998 cc,,Tu dong,190 kW @ 5000 rpm,RWD,Xang,78 Lit
+Lexus GS350 3.5 V6,https://xebiz.vn/gia-xe/lexus-gs350-3-5-v6/,Lexus,Nhap khau,Sedan,5 cho,3456 cc,,Tu dong,232 kW @ 6400 rpm,AWD,Xang,65 Lit
+Toyota Highlander Limited,https://xebiz.vn/gia-xe/toyota-highlander-limited/,Toyota,Nhap khau,SUV,7 cho,3456 cc,,Tu dong,220 kW @ 6600 rpm,AWD,Xang,67 Lit
+Audi Q8 55 TFSI quattro,https://xebiz.vn/gia-xe/audi-q8-55-tfsi-quattro/,Audi,Nhap khau,SUV,5 cho,2995 cc,,Tu dong,250 kW @ 5000 rpm,AWD,Xang,85 Lit
+Mercedes-AMG GLE 43 4Matic Coupe,https://xebiz.vn/gia-xe/mercedes-amg-gle-43-4matic-coupe/,Mercedes,Nhap khau,SUV,5 cho,2996 cc,,Tu dong,287 kW @ 5500 rpm,AWD,Xang,93 Lit
+Mercedes-Benz GLS 400 4Matic,https://xebiz.vn/gia-xe/mercedes-benz-gls-400-4matic/,Mercedes,Nhap khau,SUV,7 cho,2999 cc,,Tu dong,270 kW @ 5500 rpm,AWD,Xang,90 Lit
+Porsche Cayenne 3.0,https://xebiz.vn/gia-xe/porsche-cayenne-3-0/,Porsche,Nhap khau,SUV,5 cho,2995 cc,,Tu dong,250 kW @ 5300 rpm,AWD,Xang,89 Lit
+Cadillac CT6 Luxury,https://xebiz.vn/gia-xe/cadillac-ct6-luxury/,Cadillac,Nhap khau,Sedan,5 cho,3649 cc,,Tu dong,250 kW @ 6800 rpm,AWD,Xang,72 Lit
+Porsche 718 Cayman S,https://xebiz.vn/gia-xe/porsche-718-cayman-s/,Porsche,Nhap khau,Coupe,2 cho,2497 cc,,So san,261 kW @ 6500 rpm,RWD,Xang,64 Lit
+Lexus RX450h 3.5 V6,https://xebiz.vn/gia-xe/lexus-rx450h-3-5-v6/,Lexus,Nhap khau,SUV,6 cho,3456 cc,,Vo cap CVT,230 kW @ 6000 rpm,AWD,Xang,65 Lit
+BMW X5 3.0 Xline Plus 40I,https://xebiz.vn/gia-xe/bmw-x5-3-0-xline-plus-40i/,BMW,Nhap khau,SUV,7 cho,2998 cc,,Tu dong,250 kW @ 5500 rpm,AWD,Xang,82 Lit
+Lincoln Aviator 3.0 V6,https://xebiz.vn/gia-xe/lincoln-aviator-3-0-v6/,Lincoln,Nhap khau,SUV,7 cho,2998 cc,,Tu dong,298 kW @ 5500 rpm,AWD,Xang,76 Lit
+Porsche 718 Boxster S,https://xebiz.vn/gia-xe/porsche-718-boxster-s/,Porsche,Nhap khau,Convertible,2 cho,2497 cc,,So san,261 kW @ 6500 rpm,RWD,Xang,64 Lit
+BMW X6 xDrive40i M Sport,https://xebiz.vn/gia-xe/bmw-x6-xdrive40i-m-sport/,BMW,Nhap khau,SUV,5 cho,2998 cc,,Tu dong,250 kW @ 5500 rpm,AWD,Xang,82 Lit
+Mercedes-Benz S450 L Luxury,https://xebiz.vn/gia-xe/mercedes-benz-s450-l-luxury/,Mercedes,Lap rap,Sedan,5 cho,2996 cc,,Tu dong,270 kW @ 5500 rpm,RWD,Xang,79 Lit
+Maserati Ghibli 3.0L V6 330HP,https://xebiz.vn/gia-xe/maserati-ghibli-3-0l-v6-330hp/,Maserati,Nhap khau,Sedan,5 cho,2979 cc,,Tu dong,257 kW @ 5500 rpm,RWD,Xang,79 Lit
+Mercedes-Benz GLS450 3.0 4Matic,https://xebiz.vn/gia-xe/mercedes-benz-gls450-3-0-4matic/,Mercedes,Nhap khau,SUV,7 cho,2999 cc,,Tu dong,270 kW @ 5500 rpm,AWD,Xang,90 Lit
+Land Rover Range Rover Sport SE,https://xebiz.vn/gia-xe/land-rover-range-rover-sport-se/,Land Rover,Nhap khau,SUV,5 cho,1998 cc,,Tu dong,221 kW @ 6500 rpm,4WD,Xang,85 Lit
+Land Rover Range Rover Velar R-Dynamic SE,https://xebiz.vn/gia-xe/land-rover-range-rover-velar-r-dynamic-se/,Land Rover,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,184 kW @ 5500 rpm,AWD,Xang,62 Lit
+Land Rover Discovery 2.0L I4 Turbocharged HSE,https://xebiz.vn/gia-xe/land-rover-discovery-2-0l-i4-turbocharged-hse/,Land Rover,Nhap khau,SUV,7 cho,1997 cc,,Tu dong,221 kW @ 5500 rpm,4WD,Xang,89 Lit
+BMW 730Li 2.0,https://xebiz.vn/gia-xe/bmw-730li-2-0/,BMW,Nhap khau,Sedan,5 cho,1998 cc,,Tu dong,190 kW @ 5000 rpm,RWD,Xang,78 Lit
+Maserati Levante 3.0 V6,https://xebiz.vn/gia-xe/maserati-levante-3-0-v6/,Maserati,Nhap khau,SUV,5 cho,2979 cc,,Tu dong,257 kW @ 5750 rpm,AWD,Xang,79 Lit
+Porsche Panamera 3.0 V6,https://xebiz.vn/gia-xe/porsche-panamera-3-0-v6/,Porsche,Nhap khau,Sedan,4 cho,2995 cc,,Tu dong,246 kW @ 5400 rpm,RWD,Xang,89 Lit
+Porsche 718 Cayman GTS,https://xebiz.vn/gia-xe/porsche-718-cayman-gts/,Porsche,Nhap khau,Coupe,2 cho,2497 cc,,So san,272 kW @ 6500 rpm,RWD,Xang,64 Lit
+Land Rover Defender 110 First Edition P400,https://xebiz.vn/gia-xe/land-rover-defender-110-first-edition-p400/,Land Rover,Nhap khau,SUV,4 cho,2996 cc,,Tu dong,295 kW @ 5500 rpm,AWD,Xang,88 Lit
+Porsche 718 Boxster GTS,https://xebiz.vn/gia-xe/porsche-718-boxster-gts/,Porsche,Nhap khau,Convertible,2 cho,2497 cc,,So san,272 kW @ 6500 rpm,RWD,Xang,64 Lit
+Porsche Panamera 4,https://xebiz.vn/gia-xe/porsche-panamera-4/,Porsche,Nhap khau,Sedan,4 cho,2995 cc,,Tu dong,246 kW @ 5400 rpm,AWD,Xang,89 Lit
+Porsche Macan Turbo,https://xebiz.vn/gia-xe/porsche-macan-turbo/,Porsche,Nhap khau,SUV,5 cho,3596 cc,,Tu dong,298 kW @ 6000 rpm,AWD,Xang,75 Lit
+Porsche Cayenne S,https://xebiz.vn/gia-xe/porsche-cayenne-s/,Porsche,Nhap khau,SUV,5 cho,2894 cc,,Tu dong,324 kW @ 5700 rpm,AWD,Xang,89 Lit
+Land Rover Discovery 2.0L I4 Turbocharged HSE Luxury,https://xebiz.vn/gia-xe/land-rover-discovery-2-0l-i4-turbocharged-hse-luxury/,Land Rover,Nhap khau,SUV,7 cho,1997 cc,,Tu dong,221 kW @ 5500 rpm,4WD,Xang,85 Lit
+Audi A8 55 TFSI quattro,https://xebiz.vn/gia-xe/audi-a8-55-tfsi-quattro/,Audi,Nhap khau,Sedan,5 cho,2995 cc,,Tu dong,250 kW @ 5000 rpm,AWD,Xang,82 Lit
+Land Rover Discovery 3.0L V6 Supercharged HSE,https://xebiz.vn/gia-xe/land-rover-discovery-3-0l-v6-supercharged-hse/,Land Rover,Nhap khau,SUV,5 cho,2995 cc,,Tu dong,254 kW @ 6500 rpm,4WD,Xang,89 Lit
+Land Rover Range Rover Velar R-Dynamic HSE,https://xebiz.vn/gia-xe/land-rover-range-rover-velar-r-dynamic-hse/,Land Rover,Nhap khau,SUV,5 cho,1997 cc,,Tu dong,184 kW @ 5500 rpm,AWD,Xang,62 Lit
+Porsche Panamera Wagon 4 Sport Turismo,https://xebiz.vn/gia-xe/porsche-panamera-wagon-4-sport-turismo/,Porsche,Nhap khau,Wagon,4 cho,2995 cc,,Tu dong,246 kW @ 5400 rpm,AWD,Xang,89 Lit
+Maserati Ghibli 3.0L V6 S 410HP,https://xebiz.vn/gia-xe/maserati-ghibli-3-0l-v6-s-410hp/,Maserati,Nhap khau,Sedan,5 cho,2979 cc,,Tu dong,316 kW @ 5750 rpm,RWD,Xang,79 Lit
+Lexus GX460 4.6 V8,https://xebiz.vn/gia-xe/lexus-gx460-4-6-v8/,Lexus,Nhap khau,SUV,7 cho,4605 cc,,Tu dong,224 kW @ 5500 rpm,4WD,Xang,87 Lit
+Land Rover Range Rover Sport HSE,https://xebiz.vn/gia-xe/land-rover-range-rover-sport-hse/,Land Rover,Nhap khau,SUV,5 cho,1998 cc,,Tu dong,221 kW @ 6500 rpm,4WD,Xang,85 Lit
+Mercedes-Benz CLS 400 3.0 V6,https://xebiz.vn/gia-xe/mercedes-benz-cls-400-3-0-v6/,Mercedes,Nhap khau,Coupe,5 cho,2999 cc,,Tu dong,270 kW @ 5500 rpm,RWD,Xang,79 Lit
+BMW 840i Gran Coupe,https://xebiz.vn/gia-xe/bmw-840i-gran-coupe/,BMW,Nhap khau,Sedan,5 cho,2998 cc,,Tu dong,250 kW @ 5000 rpm,AWD,Xang,68 Lit
+Porsche Panamera 4 Executive,https://xebiz.vn/gia-xe/porsche-panamera-4-executive/,Porsche,Nhap khau,Sedan,4 cho,2995 cc,,Tu dong,246 kW @ 5400 rpm,AWD,Xang,89 Lit
+Maserati Ghibli 3.0L V6 SQ4 410HP,https://xebiz.vn/gia-xe/maserati-ghibli-3-0l-v6-sq4-410hp/,Maserati,Nhap khau,Sedan,5 cho,2979 cc,,Tu dong,316 kW @ 5750 rpm,AWD,Xang,79 Lit
+Land Rover Discovery 3.0L V6 Supercharged HSE Luxury,https://xebiz.vn/gia-xe/land-rover-discovery-3-0l-v6-supercharged-hse-luxury/,Land Rover,Nhap khau,SUV,7 cho,2995 cc,,Tu dong,254 kW @ 6500 rpm,4WD,Xang,89 Lit
+BMW 740Li 3.0,https://xebiz.vn/gia-xe/bmw-740li-3-0/,BMW,Nhap khau,Sedan,5 cho,2998 cc,,Tu dong,250 kW @ 5500 rpm,RWD,Xang,78 Lit
+Mercedes-AMG GT53 4MATIC+,https://xebiz.vn/gia-xe/mercedes-amg-gt53-4matic/,Mercedes,Nhap khau,Coupe,4 cho,2999 cc,,Tu dong,320 kW @ 6100 rpm,AWD,Xang,65 Lit
+Maserati Quattroporte 3.0L V6 S 410HP,https://xebiz.vn/gia-xe/maserati-quattroporte-3-0l-v6-s-410hp/,Maserati,Nhap khau,Sedan,5 cho,2979 cc,,Tu dong,316 kW @ 5750 rpm,RWD,Xang,79 Lit
+Volvo XC90 2.0 Excellence AT 4WD,https://xebiz.vn/gia-xe/volvo-xc90-2-0-excellence-at-4wd/,Volvo,Nhap khau,SUV,7 cho,1969 cc,,Tu dong,236 kW @ 5700 rpm,4WD,Xang,71 Lit
+BMW M6 Gran Coupe,https://xebiz.vn/gia-xe/bmw-m6-gran-coupe/,BMW,Nhap khau,Sedan,5 cho,4395 cc,,Tu dong,412 kW @ 6000 rpm,RWD,Xang,79 Lit
+Porsche Panamera Wagon 3.0 V6 Sport Turismo,https://xebiz.vn/gia-xe/porsche-panamera-wagon-3-0-v6-sport-turismo/,Porsche,Nhap khau,Wagon,4 cho,2995 cc,,Tu dong,246 kW @ 5400 rpm,AWD,Xang,89 Lit
+Porsche Panamera Sport Turismo,https://xebiz.vn/gia-xe/porsche-panamera-sport-turismo/,Porsche,Nhap khau,Sedan,4 cho,2995 cc,,Tu dong,410 kW @ 6400 rpm,AWD,Xang,89 Lit
+Porsche 911 Carrera 3.0,https://xebiz.vn/gia-xe/porsche-911-carrera-3-0/,Porsche,Nhap khau,Coupe,2 cho,2981 cc,,Tu dong,283 kW @ 6500 rpm,RWD,Dau,64 Lit
+Land Rover Range Rover Sport HSE Dynamic,https://xebiz.vn/gia-xe/land-rover-range-rover-sport-hse-dynamic/,Land Rover,Nhap khau,SUV,5 cho,2995 cc,,Tu dong,265 kW @ 6500 rpm,4WD,Xang,104 Lit
+Maserati Quattroporte V6 SQ4 410HP,https://xebiz.vn/gia-xe/maserati-quattroporte-v6-sq4-410hp/,Maserati,Nhap khau,Sedan,5 cho,2979 cc,,Tu dong,316 kW @ 5750 rpm,AWD,Xang,79 Lit
+Infiniti QX80 5.6 V8,https://xebiz.vn/gia-xe/infiniti-qx80-5-6-v8/,Infiniti,Nhap khau,SUV,8 cho,5552 cc,,Tu dong,298 kW @ 5800 rpm,4WD,Xang,98 Lit
+Jaguar F-Type S 3.0V6,https://xebiz.vn/gia-xe/jaguar-f-type-s-3-0v6/,Jaguar,Nhap khau,Coupe,2 cho,2995 cc,,Tu dong,254 kW @ 6500 rpm,RWD,Xang,70 Lit
+Lexus LS500 3.5 V6,https://xebiz.vn/gia-xe/lexus-ls500-3-5-v6/,Lexus,Nhap khau,Sedan,5 cho,3444 cc,,Tu dong,310 kW @ 6000 rpm,RWD,Xang,82 Lit
+Maserati Quattroporte 3.8L V8 GTS GranSport 530HP,https://xebiz.vn/gia-xe/maserati-quattroporte-3-8l-v8-gts-gransport-530hp/,Maserati,Nhap khau,Sedan,5 cho,3802 cc,,Tu dong,390 kW @ 6500 rpm,RWD,Xang,79 Lit
+Mercedes-Maybach S450 3.0 V6,https://xebiz.vn/gia-xe/mercedes-maybach-s450-3-0-v6/,Mercedes Maybach,Nhap khau,Sedan,5 cho,2996 cc,,Tu dong,270 kW @ 5500 rpm,2WD,Xang,79 Lit
+Porsche 911 Carrera 4,https://xebiz.vn/gia-xe/porsche-911-carrera-4/,Porsche,Nhap khau,Coupe,2 cho,2981 cc,,Tu dong,283 kW @ 6500 rpm,AWD,Dau,66 Lit
+Porsche Panamera 4S,https://xebiz.vn/gia-xe/porsche-panamera-4s/,Porsche,Nhap khau,Sedan,4 cho,2995 cc,,Tu dong,328 kW @ 5650 rpm,AWD,Xang,89 Lit
+BMW X7 xDrive40i,https://xebiz.vn/gia-xe/bmw-x7-xdrive40i/,BMW,Nhap khau,SUV,7 cho,2998 cc,,Tu dong,250 kW @ 5500 rpm,AWD,Xang,82 Lit
+Porsche Panamera Wagon 4S Sport Turismo,https://xebiz.vn/gia-xe/porsche-panamera-wagon-4s-sport-turismo/,Porsche,Nhap khau,Wagon,4 cho,2995 cc,,Tu dong,328 kW @ 5650 rpm,AWD,Xang,89 Lit
+BMW i8 1.5L Hybrid,https://xebiz.vn/gia-xe/bmw-i8-1-5l-hybrid/,BMW,Nhap khau,Coupe,4 cho,1498 cc,,Vo cap CVT,,AWD,Dien,0 Lit
+Mercedes-Benz GLS 500 4Matic 4.7 V8,https://xebiz.vn/gia-xe/mercedes-benz-gls-500-4matic-4-7-v8/,Mercedes,Nhap khau,SUV,7 cho,4691 cc,,Tu dong,360 kW @ 5500 rpm,AWD,Xang,90 Lit
+Lexus LS500h 3.5 V6 Hybrid,https://xebiz.vn/gia-xe/lexus-ls500h-3-5-v6-hybrid/,Lexus,Nhap khau,Sedan,5 cho,3456 cc,,Vo cap CVT,264 kW @ 6600 rpm,RWD,Xang,84 Lit
+Cadillac Escalade 6.2 V8,https://xebiz.vn/gia-xe/cadillac-escalade-6-2-v8/,Cadillac,Nhap khau,SUV,7 cho,6162 cc,,Tu dong,313 kW @ 5600 rpm,RWD,Xang,98 Lit
+Toyota Sequoia Limited,https://xebiz.vn/gia-xe/toyota-sequoia-limited/,Toyota,Nhap khau,SUV,7 cho,5663 cc,,Tu dong,284 kW @ 5600 rpm,4WD,Xang,99 Lit
+Porsche 911 Cabriolet Carrera 4,https://xebiz.vn/gia-xe/porsche-911-cabriolet-carrera-4/,Porsche,Nhap khau,Convertible,2 cho,2981 cc,,Tu dong,283 kW @ 6500 rpm,AWD,Dau,66 Lit
+Porsche Panamera 4S Executive,https://xebiz.vn/gia-xe/porsche-panamera-4s-executive/,Porsche,Nhap khau,Sedan,4 cho,2995 cc,,Tu dong,328 kW @ 5650 rpm,AWD,Xang,89 Lit
+Porsche 911 Carrera 4S,https://xebiz.vn/gia-xe/porsche-911-carrera-4s/,Porsche,Nhap khau,Coupe,2 cho,2981 cc,,Tu dong,330 kW @ 6500 rpm,AWD,Dau,66 Lit
+Lexus LX570 Sport,https://xebiz.vn/gia-xe/lexus-lx570-sport/,Lexus,Nhap khau,SUV,6 cho,5663 cc,,Tu dong,286 kW @ 5600 rpm,4WD,Xang,93 Lit
+Land Rover Range Rover Vogue,https://xebiz.vn/gia-xe/land-rover-range-rover-vogue/,Land Rover,Nhap khau,SUV,5 cho,2993 cc,,Tu dong,250 kW @ 6500 rpm,4WD,Dau,85 Lit
+BMW 750Li xDrive M-Sport,https://xebiz.vn/gia-xe/bmw-750li-xdrive-m-sport/,BMW,Nhap khau,Sedan,5 cho,4395 cc,,Tu dong,390 kW @ 5500 rpm,AWD,Xang,78 Lit
+Jaguar F-Type R-Dynamic 3.0V6,https://xebiz.vn/gia-xe/jaguar-f-type-r-dynamic-3-0v6/,Jaguar,Nhap khau,Coupe,2 cho,2995 cc,,Tu dong,283 kW @ 6500 rpm,RWD,Xang,70 Lit
+Porsche Cayenne Turbo,https://xebiz.vn/gia-xe/porsche-cayenne-turbo/,Porsche,Nhap khau,SUV,5 cho,3997 cc,,Tu dong,403 kW @ 5750 rpm,AWD,Xang,89 Lit
+Mercedes-AMG GLE 63 4MATIC Coupe,https://xebiz.vn/gia-xe/mercedes-amg-gle-63-4matic-coupe/,Mercedes,Nhap khau,SUV,5 cho,5461 cc,,Tu dong,410 kW @ 5250 rpm,AWD,Xang,93 Lit
+Porsche Panamera GTS,https://xebiz.vn/gia-xe/porsche-panamera-gts/,Porsche,Nhap khau,Sedan,4 cho,3996 cc,,Tu dong,338 kW @ 6000 rpm,AWD,Xang,89 Lit
+Porsche Panamera Wagon GTS Sport Turismo,https://xebiz.vn/gia-xe/porsche-panamera-wagon-gts-sport-turismo/,Porsche,Nhap khau,Wagon,4 cho,3996 cc,,Tu dong,338 kW @ 6000 rpm,AWD,Xang,89 Lit
+Mclaren 570S 3.8 V8,https://xebiz.vn/gia-xe/mclaren-570s-3-8-v8/,McLaren,Nhap khau,Coupe,2 cho,3994 cc,,Vo cap CVT,529 kW @ 7500 rpm,RWD,Xang,71 Lit
+Aston Martin Rapide S V12,https://xebiz.vn/gia-xe/aston-martin-rapide-s-v12/,Aston Martin,Nhap khau,Sedan,4 cho,5935 cc,,Tu dong,417.4 kW @ 6650 rpm,RWD,Xang,90 Lit
+Cadillac Escalade ESV Platinum,https://xebiz.vn/gia-xe/cadillac-escalade-esv-platinum/,Cadillac,Nhap khau,SUV,8 cho,6162 cc,,Tu dong,313 kW @ 5600 rpm,RWD,Xang,98 Lit
+Mclaren 720S 4.0 V8,https://xebiz.vn/gia-xe/mclaren-720s-4-0-v8/,McLaren,Nhap khau,Coupe,2 cho,3994 cc,,Vo cap CVT,529 kW @ 7500 rpm,RWD,Xang,71 Lit
+Mercedes-AMG GTR 4.0 V8,https://xebiz.vn/gia-xe/mercedes-amg-gtr-4-0-v8/,Mercedes,Nhap khau,Coupe,2 cho,3982 cc,,Tu dong,430 kW @ 6250 rpm,RWD,Xang,75 Lit
+Mercedes-Maybach S560 4.0 V8 4Matic,https://xebiz.vn/gia-xe/mercedes-maybach-s560-4-0-v8-4matic/,Mercedes Maybach,Nhap khau,Sedan,5 cho,3982 cc,,Tu dong,345 kW @ 5250 rpm,AWD,Xang,79 Lit
+Mercedes-AMG GLS 63 5.5 V8,https://xebiz.vn/gia-xe/mercedes-amg-gls-63-5-5-v8/,Mercedes,Nhap khau,SUV,7 cho,5461 cc,,Tu dong,430 kW @ 5500 rpm,AWD,Xang,99 Lit
+Jaguar F-Type Convertible SVR 5.0V8,https://xebiz.vn/gia-xe/jaguar-f-type-convertible-svr-5-0v8/,Jaguar,Nhap khau,Coupe,2 cho,5000 cc,,Tu dong,429 kW @ 6500 rpm,AWD,Xang,70 Lit
+BMW M8 Competition,https://xebiz.vn/gia-xe/bmw-m8-competition/,BMW,Nhap khau,Coupe,4 cho,4395 cc,,Tu dong,447 kW @ 6000 rpm,AWD,Xang,76 Lit
+Bentley Bentayga Design Series,https://xebiz.vn/gia-xe/bentley-bentayga-design-series/,Bentley,Nhap khau,SUV,5 cho,3996 cc,,Tu dong,404 kW @ 6000 rpm,AWD,Xang,85 Lit
+Land Rover Range Rover Autobiography LWB 5.0 V8,https://xebiz.vn/gia-xe/land-rover-range-rover-autobiography-lwb-5-0-v8/,Land Rover,Nhap khau,SUV,5 cho,5000 cc,,Tu dong,415 kW @ 6000 rpm,4WD,Xang,103 Lit
+Mercedes-Maybach S650 6.0 V12 Biturbo,https://xebiz.vn/gia-xe/mercedes-maybach-s650-6-0-v12-biturbo/,Mercedes Maybach,Nhap khau,Sedan,5 cho,5980 cc,,Tu dong,463 kW @ 5500 rpm,RWD,Xang,79 Lit
+Aston Martin Vantage V8,https://xebiz.vn/gia-xe/aston-martin-vantage-v8/,Aston Martin,Nhap khau,Coupe,2 cho,3995 cc,,Vo cap CVT,684 kW @ 2000 rpm,RWD,Xang,73 Lit
+Aston Martin DB11 4.0 V8,https://xebiz.vn/gia-xe/aston-martin-db11-4-0-v8/,Aston Martin,Nhap khau,Coupe,4 cho,3982 cc,,Tu dong,375 kW @ 6000 rpm,RWD,Xang,77 Lit
+Mercedes-AMG G65 6.0 V12,https://xebiz.vn/gia-xe/mercedes-amg-g65-6-0-v12/,Mercedes,Nhap khau,SUV,5 cho,5980 cc,,Tu dong,463 kW @ 5000 rpm,4WD,Xang,96 Lit
+Aston Martin Vanquish S V12,https://xebiz.vn/gia-xe/aston-martin-vanquish-s-v12/,Aston Martin,Nhap khau,Coupe,2 cho,5935 cc,,Tu dong,433 kW @ 7000 rpm,RWD,Xang,77 Lit
+Rolls-Royce Ghost V12,https://xebiz.vn/gia-xe/rolls-royce-ghost-v12/,Rolls Royce,Nhap khau,Sedan,5 cho,6592 cc,,Tu dong,420 kW @ 5250 rpm,RWD,Xang,82 Lit
+Rolls-Royce Cullinan V12,https://xebiz.vn/gia-xe/rolls-royce-cullinan-v12/,Rolls Royce,Nhap khau,SUV,4 cho,6755 cc,,Tu dong,,AWD,Xang,0 Lit
+Rolls-Royce Dawn V12,https://xebiz.vn/gia-xe/rolls-royce-dawn-v12/,Rolls Royce,Nhap khau,Convertible,4 cho,6592 cc,,Tu dong,442 kW @ 5250 rpm,RWD,Xang,0 Lit
